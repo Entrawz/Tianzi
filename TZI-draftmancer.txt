@@ -1,0 +1,547 @@
+[CustomCards]
+	[CW01—Inner Balance	common	{W}	Instant	normal
+CW02—Sword Technique	common	{2}{W}	Enchantment — Saga 	transform double faced
+UW10—Trigram Palm	uncommon	{1}{W}	Instant	normal
+CW04—Orthodox Quickblade	common	{3}{W}{W}	Creature — Human Swordsman 	normal
+CR10—Apex Hunter	common	{2}{R}	Enchantment — Aura 	normal
+CW05—Sect Instructor	common	{W}	Creature — Human Cultivator 	normal
+CW06—Talisman Warder	common	{2}{W}	Enchantment Creature — Human Ascetic 	normal
+CW07—Pilgrimage	common	{1}{W}	Enchantment — Aura 	normal
+CW08—Wandering Taoist	common	{3}{W}	Creature — Human Cultivator 	normal
+CW09—Wandering Ascetic	common	{2}{W}	Creature — Human Cultivator 	normal
+CW10—Qingchen Sect Warrior	common	{W}	Creature — Human Cultivator 	normal
+CW11—Central Plains Huntsman	common	{1}{W}	Creature — Human Warrior 	normal
+CW12—Pathfinder Monk	common	{W}	Creature — Human Monk 	normal
+CW13—Sky's Retribution	common	{1}{W}	Instant	normal
+CW14—Interloper's Verdict	common	{1}{W}	Sorcery	normal
+CW15—Warwaker	common	{3}{W}	Creature — Human Citizen 	normal
+CW16—Palace Malitia	common	{2}{W}	Creature — Human Warrior 	normal
+UW13—Seal Release	uncommon	{W}	Artifact	normal
+UW12—Signal Flare	uncommon	{4}{W}	Artifact	normal
+CU01—Qi Refinement	common	{U}	Instant	normal
+CU02—Illusion Technique	common	{2}{U}	Enchantment — Saga 	transform double faced
+CU03—BlueJay Patrol	common	{U}	Creature — Human Cultivator 	normal
+CU04—Pocket Dimension	common	{2}{U}	Instant	normal
+CU05—Orthodoxy Banner	common	{2}{U}	Artifact	normal
+UU12—Nascent Dissipator	uncommon	{2}{U}	Creature — Human Cultivator 	normal
+CU07—Spiritual Absorption	common	{2}{U}	Instant	normal
+CU08—Illusionist Practicioner	common	{3}{U}	Creature	normal
+UU06—Blade Aura	uncommon	{U}	Enchantment — Aura 	normal
+CU10—Premonition	common	{1}{U}	Instant	normal
+CU11—Hooktongue Toad	common	{1}{U}	Enchantment Creature — Spirit Toad 	normal
+CU12—Crane School Disciple	common	{2}{U}	Creature	normal
+CU13—Red Light Courtesan	common	{3}{U}	Creature — Human Citizen 	normal
+CU15—Blue Mountain Crane	common	{3}{U}	Creature — Spirit Beast Crane 	normal
+CU16—Temple's Procession	common	{U}	Creature — Human Monk 	transform double faced
+CU17—South Bound Swordsman	common	{1}{U}	Creature — Human Swordsman 	transform double faced
+RU07—Bazaar Peddelar	rare	{1}{U}{U}	Enchantment Creature — Spirit Beast 	normal
+CU06—Beast of Burden	common	{1}{U}	Enchantment Creature — Spirit Beast 	normal
+CB01—Qi Deviation	common	{B}	Instant	normal
+CB02—Hidden Weapons Technique	common	{2}{B}	Enchantment — Saga 	transform double faced
+CB03—Dantian Destuction	common	{4}{B}	Sorcery	normal
+CB04—Cult Initiate	common	{1}{B}	Creature — Human 	transform double faced
+RB07—Painted Lady	rare	{3}{B}	Creature — Human Citizen Cultivator 	transform double faced
+CB07—Stockpile	common	{2}{B}	Sorcery	normal
+CB08—Depth Exploration	common	{2}{B}	Sorcery	normal
+CB09—Vengeful Wanderer	common	{1}{B}	Creature — Human Cultivator 	transform double faced
+CB10—Veteran Mercenary	common	{1}{B}	Creature — Human Ronin 	normal
+CB11—Sun Moon Infiltrator	common	{1}{B}	Creature — Human  Spy 	transform double faced
+CB13—Unorthodox Infiltrator	common	{B}	Creature — Human Spy 	normal
+CB14—Injured Assailant	common	{3}{B}	Creature — Human Assassin 	normal
+CB15—Deal Behind Closed Doors	common	{4}{B}	Sorcery	normal
+UB13—Sun Moon Holy Ritual	uncommon	{B}	Sorcery	normal
+CB16—Palace Watch	common	{3}{B}	Creature — Human Citizen 	normal
+CB17—Demonic Convulsion	common	{3}{B}	Sorcery	normal
+UB12—Harrowing Call	uncommon	{B}	Instant	normal
+CR01—Clan Pillaging	common	{R}	Instant	normal
+CR02—Sabre Technique	common	{2}{R}	Enchantment — Saga 	transform double faced
+CR03—Thunder Tribulation	common	{R}	Instant	normal
+CR04—Mercenary Banner	common	{2}{R}	Artifact	normal
+CR05—Southland Redwing	common	{R}	Enchantment Creature — Bird Spirit 	normal
+CR06—Green Mountain Pillager	common	{4}{R}	Creature — Human Bandit 	normal
+CR07—Mountain Bandits	common	{4}{R}	Creature — Human Bandit 	normal
+CR08—Townedge Toad	common	{2}{R}	Creature — Spirit Beast 	normal
+CR09—Firefont Bellringer	common	{2}{R}	Creature — Human Cultivator Mystic 	normal
+CR11—Horned Tiger	common	{2}{R}	Enchantment Creature — Spirit 	normal
+CR13—Firepalm Vindicator	common	{1}{R}	Creature — Human Cultivator 	normal
+CR14—Westland Breserker	common	{3}{R}	Creature — Human Bandit 	normal
+CR15—Clear a Path	common	{R}	Sorcery	normal
+CR16—Void Firebolt	common	{1}{R}	Instant	normal
+CR17—Sweeping Reversal	common	{4}{R}	Sorcery	normal
+UR13—Overwhelming Force	uncommon	{2}{R}	Sorcery	normal
+UR12—Lantern Warden	uncommon	{5}{R}	Enchantment Creature — Spirit 	normal
+CG01—Thousand-Year Ginseng	common	{2}{G}	Sorcery	normal
+CG02—Fist Technique	common	{2}{G}	Enchantment — Saga 	transform double faced
+CG03—Escort Convoy	common	{G}	Creature — Human Warrior 	normal
+CG04—Ancient Toadling	common	{2}{G}	Enchantment Creature — Toad 	normal
+CG05—Disperse Evil	common	{1}{G}	Sorcery	normal
+CG06—Westland Escort	common	{1}{G}	Creature — Human Bandit 	transform double faced
+CG07—Dumb	common	{1}{G}	Creature	transform double faced
+CG08—Naval Commander	common	{5}{G}	Creature — Human Warrior 	normal
+CG09—Hoarding Toad	common	{G}	Enchantment Creature — Toad 	normal
+CG10—Palace Provisioner	common	{2}{G}	Creature — Human 	normal
+CG11—Grizzly Woodcutter	common	{3}{G}	Creature — Human Citizen 	transform double faced
+CG12—Outnumbered, Unmatched	common	{2}{G}	Instant	normal
+CG13—Fanged Greed Beast	common	{1}{G}	Enchantment Creature — Shapeshifter 	normal
+CG14—Clan Dispute	common	{1}{G}	Sorcery	normal
+CG15—Beast Palace Banner	common	{2}{G}	Artifact	normal
+CG17—Iron Bone Practicioner	common	{3}{G}	Creature — Human Cultivator 	normal
+UG13—Murk Stomper	uncommon	{1}{G}{G}	Enchantment Creature — Toad Demon 	normal
+UG12—Territory Reclamation	uncommon	{3}{G}	Enchantment	normal
+UW01—Avenge the Fallen	uncommon	{2}{W}{W}	Sorcery	normal
+UW02—Secluded Elder	uncommon	{4}{W}{W}	Creature — Human Cultivator Ascetic 	normal
+UW03—Joint Effort	uncommon	{3}{W}{W}	Instant	normal
+UW04—Refraction Spear Monk	uncommon	{3}{W}{W}	Creature — Human Cultivator 	normal
+UW05—Imperial Decree	uncommon	{1}{W}	Sorcery	normal
+UW06—Exorcist	uncommon	{1}{W}{W}	Creature — Human Cultivator 	normal
+UW07—Southland Rider	uncommon	{1}{W}	Creature — Human Beast Warrior 	normal
+UW08—Procession Mask	uncommon	{3}{W}	Artifact	normal
+UW09—Prison Pagoda	uncommon	{2}{W}	Artifact	normal
+CW03—Imperial Banner	common	{2}{W}	Artifact	normal
+UW11—Turned Blade	uncommon	{W}	Instant	normal
+RU03—Twin Form Practicioner	rare	{4}{U}{U}	Creature — Spirit Cultivator 	normal
+UU02—GreenRiver Goldfish	uncommon	{3}{U}	Enchantment Creature — Spirit Beast 	normal
+UU03— Clan Tacticians	uncommon	{2}{U}{U}	Creature — Human Cultivator Noble 	normal
+UU04—Mirror Formation	uncommon	{2}{U}{U}	Sorcery	normal
+UU05—Demonic Infiltrator	uncommon	{2}{U}	Creature — Human Cultivator Spy 	transform double faced
+CU09—Tide Lurker	common	{U}	Enchantment Creature — Spirit Fish 	normal
+UU07—Eight Trigrams Practitioner	uncommon	{6}{U}{U}	Creature — Human Cultivator 	normal
+UU08—Qigong Teqnichue	uncommon	{1}{U}{U}	Instant	normal
+UU09—Wavereader Pilgrem	uncommon	{1}{U}	Creature — Human Monk 	transform double faced
+UU10—Buttery	uncommon	{2}{U}	Creature — Human 	transform double faced
+UU11—Starscale Frillback	uncommon	{2}{U}	Enchantment Creature — Spirit Lizard 	normal
+UB01—Pure Yin Constitution	uncommon	{2}{B}	Enchantment — Aura 	normal
+UB02—Forest of Trophies	uncommon	{B}	Sorcery	normal
+UB03—Servant of the Void	uncommon	{2}{B}	Creature — Human Cultivator 	normal
+UB04—Coux	uncommon	{2}{B}{B}	Sorcery	normal
+UB05—Bandit Captain	uncommon	{2}{B}	Creature — Human Bandit 	normal
+UB06—Blackmarket Enforcer	uncommon	{B}	Creature — Human Warrior 	transform double faced
+UB07—Harvesting Operation	uncommon	{1}{B}	Artifact	normal
+UB08—Madam Shí	uncommon	{1}{B}{B}	Creature — Human Noble 	normal
+UB09—Give your Offerings	uncommon	{2}{B}	Sorcery	normal
+UB10—Lunar Ascencion Pill	uncommon	{1}{B}	Artifact	normal
+UB11—Palace Guard	uncommon	{2}{B}	Creature — Human Noble 	normal
+UR01—Pure Yang Constition	uncommon	{1}{R}	Enchantment — Aura 	normal
+UR02—Blink Toad	uncommon	{2}{R}	Enchantment Creature — Spirit Toad 	normal
+UR03—Hungry Toad	uncommon	{1}{R}{R}	Creature — Spirit 	normal
+UR04—Nowhere to Run	uncommon	{3}{R}	Sorcery	normal
+UR05—Warforged Raider	uncommon	{2}{R}{R}	Creature — Human Warrior 	normal
+RR06—Jīngxi the Chained Pheonix	rare	{1}{R}{R}	Legendary Creature — Human Cultivator 	normal
+UR07—Gift of the Void Fire	uncommon	{2}{R}{R}	Enchantment	normal
+UR08—Gold Core Flameweaver	uncommon	{3}{R}	Creature — Human Cultivator 	normal
+UR09— Meridian Overload	uncommon	{4}{R}{R}	Sorcery	normal
+UR10—Bronze Skin Berserker	uncommon	{4}{R}	Creature — Human Mercenary 	normal
+UR11—Parry	uncommon	{1}{R}	Instant	normal
+UG01—Dynasty Warding Beast	uncommon	{1}{G}	Enchantment Creature — Spirit Monkey 	normal
+UG02—Smoke Walker	uncommon	{3}{G}{G}	Enchantment Creature — Spirit 	normal
+UG03—Pulverization Palm	uncommon	{X}{X}{G}	Sorcery	normal
+UG04—Mountain Top Guide	uncommon	{3}{G}	Enchantment Creature — Spirit Elk Beast 	normal
+UG05—Royal Courtesan	uncommon	{2}{G}	Creature — Human Noble 	normal
+UG06—Beast Palace Calvary	uncommon	{2}{G}	Creature — Human Beast 	normal
+UG07—Unyeilding Blademaster	uncommon	{3}{G}	Creature — Human Swordsman 	transform double faced
+UG08—Lord of the Mountain	uncommon	{6}{G}	Creature — Demon 	normal
+UG09—Village Head	uncommon	{1}{G}{G}	Creature — Human Citizen 	normal
+UG10—Gaurdian Lion	uncommon	{2}{G}{G}	Enchantment Creature — Spirit Beast 	normal
+UG11—Trader's Cart	uncommon	{2}{G}	Artifact	normal
+RW03—Son of the Dragon	rare	{2}{W}{W}	Creature — Human Cultivator Spirit 	normal
+RW02—Contracted Ceasefire	rare	{3}{W}	Artifact	normal
+MW02—Dante the Stranger	mythic	{3}{W}{W}	Planeswalker — Dante 	planeswalker
+RW04—Wéi Guāng, Warrior Prince	rare	{3}{W}{W}	Legendary Creature — Human Noble Warrior 	normal
+RW05—Call the Anscestors	rare	{4}{W}{W}	Sorcery	normal
+RW06—Nascent Realm Master	rare	{6}{W}{W}	Creature	normal
+MW01—Empress Biān	mythic	{4}{W}{W}	Legendary Creature — Human Noble 	normal
+RU01—Pavilion Master	rare	{3}{U}{U}	Creature — Human Cultivator 	normal
+RU02—Moon Division Commander	rare	{2}{U}{U}	Legendary Creature — Human Cultivator Advisor 	transform double faced
+UU01—Drag to the Surface	uncommon	{2}{U}	Instant	normal
+RU04—Luóshuān, Son of Thunder	rare	{2}{U}{U}	Legendary Creature — Human Cultivator 	normal
+RU05—Crystal Amulet	rare	{3}{U}	Legendary Artifact	normal
+RU06—Quicksilver Tortoise	rare	{1}{U}{U}	Enchantment Creature — Spirit Beast 	normal
+UU13—Blocked Acupoints	uncommon	{3}{U}{U}	Instant	normal
+RB01—Sun Division Commander	rare	{3}{B}{B}	Legendary Creature — Human Cultivator Advisor 	transform double faced
+RB02—The Black Gate	rare	{3}{B}{B}{B}	Sorcery	normal
+RB03—Information Network	rare	{1}{B}{B}	Artifact	normal
+RB04—Spoiled	rare	{2}{B}{B}	Creature — Human 	transform double faced
+RB05—Possesion Practicioner	rare	{1}{B}{B}	Creature — Shapeshifter  Cultivator 	normal
+MB02—Tāotiè, the First Peril	mythic	{5}{B}{B}	Legendary Creature — Demon Beast 	normal
+MB01—QiongQi, the Fourth Peril	mythic	{4}{B}{B}	Legendary Creature — Demon Beast 	normal
+RR01—Drunken Master	rare	{2}{R}{R}	Creature — Human Monk 	normal
+RR02—Jeeves, Blade Dancer	rare	{1}{R}{R}	Legendary Creature — Human Bandit 	normal
+RR03—Primordial Qi Release	rare	{4}{R}{R}	Sorcery	normal
+RR04—The Vermilion Bird of the South	rare	{1}{R}{R}	Legendary Enchantment Creature — Spirit Bird 	normal
+RR05—The White Tiger of the West	rare	{2}{R}{R}	Legendary Enchantment Creature — Spirit Tiger 	normal
+UR06—Flametooth Maurader	uncommon	{2}{R}	Creature — Human Cultivator 	normal
+RG06—Imperial Barracks	rare	{2}{G}	Artifact	normal
+RG01—The Black Tortoise of the North	rare	{4}{G}{G}	Legendary Enchantment Creature — Spirit Toirtoise 	normal
+RG02—The Azure Dragon of the East	rare	{2}{G}{G}	Legendary Enchantment Creature — Spirit Dragon 	normal
+RG03—Imperial General	rare	{2}{G}{G}	Creature — Human Warrior 	normal
+RW01—Sunblast Edict	rare	{5}{W}{W}	Sorcery	normal
+RG05—Princess Jīhuì the Spectral	rare	{3}{G}{G}	Enchantment Creature — Toad Cultivator Spirit 	normal
+RR07—Oogoma, Eater of Souls	rare	{3}{R}{R}	Legendary Creature — Toad Spirit Demon 	normal
+MG02—TaoWu, the Third Peril	mythic	{3}{G}{G}{G}	Legendary Creature — Demon Beast 	normal
+RW07—The Qíjī Physician	rare	{1}{W}{W}	Legendary Creature — Human Physician 	normal
+MG01—HunDun, the Second Peril	mythic	{5}{G}{G}	Legendary Creature — Demon Beast 	normal
+MU01—Sky Scribes Invocation	mythic	{2}{U}{U}	Enchantment	normal
+MU02—Léibào, Orthodox Prodigy	mythic	{4}{U}{U}	Planeswalker — Léibào 	planeswalker
+CB05—Village Prefects	common	{1}{B}	Creature — Human Warrior 	normal
+RB06—Necrotic Returner	rare	{1}{B}{B}	Creature — Demon Cultivator 	normal
+MR01—Bēishāng the Nine-Tailed Fox	mythic	{1}{R}{R}	Legendary Enchantment Creature — Spirit Beast Fox 	normal
+MR02—Eye of the Void Colossus	mythic	{3}{R}{R}	Artifact	normal
+RG04—Bull	rare	{4}{G}	Creature — Human 	transform double faced
+RG07—Steadfast Guardian	rare	{1}{G}{G}	Creature — Human Noble Warrior 	normal
+RM01—Unorthodox Ascendancy	rare	{R}{W}{B}	Enchantment	normal
+RM01—Dynastic Ascendancy	rare	{W}{B}{G}	Enchantment	normal
+RM01—Orthodox Ascendancy	rare	{U}{R}{W}	Enchantment	normal
+RM01—Spirit Beast Ascendancy	rare	{G}{U}{R}	Enchantment	normal
+RM01—Sun Moon Ascendancy	rare	{B}{G}{U}	Enchantment	normal
+UM01—Court Official	uncommon	{1}{W}{B}{G}	Enchantment Creature — Human Advisor 	normal
+UM01—Inner Desciple	uncommon	{U}{R}{W}	Creature — Human Monk 	normal
+UM01—Sun Moon Squad Captian	uncommon	{1}{B}{G}{U}	Creature — Human Cultivator 	transform double faced
+UM01—Gold Core Ronin	uncommon	{1}{R}{W}{B}	Creature — Human Warrior 	normal
+UM01—Three-Legged Toad	uncommon	{1}{G}{U}{R}	Enchantment Creature — Toad Spirit 	normal
+UM02—Sky Pavilion Disciple	uncommon	{U}{R}{W}	Creature — Human Crane Ascetic 	normal
+UM02—Thousand-Soul Banner	uncommon	{B}{G}{U}	Artifact — Relic 	normal
+UM02—Supply Route Raiders	uncommon	{R}{W}{B}	Creature — Human  Mercenary 	normal
+UM02—Ambush Toad	uncommon	{G}{U}{R}	Enchantment Creature — Toad Army  	normal
+UM02—Imperial Advisor	uncommon	{W}{B}{G}	Creature — Human Advisor 	normal
+RM02—Yùlóng, Eternal Emporer	mythic	{W}{B}{G}	Legendary Creature — Human Noble 	normal
+RM02—Hòuwèi, the Spirit King	mythic	{3}{G}{U}{R}	Legendary Enchantment Creature — Spirit Cultivator 	normal
+RM02—Xuè Yuè, the Steel Tempest	mythic	{3}{R}{W}{B}	Legendary Creature — Human Warrior 	normal
+RM02—Báihè, the Unifier	mythic	{U}{R}{W}	Legendary Creature — Human Cultivator 	normal
+RM02—Hēi Tàiyáng, the Heavenly Demon	mythic	{1}{B}{G}{U}	Legendary Creature — Human Cultivator 	transform double faced
+CA01—Family Heirloom	common	{1}	Artifact — Equipment 	normal
+CA02—Pit Shackles	common	{1}	Artifact — Equipment 	normal
+CA03—Mystic's Lantern	common	{3}	Artifact	normal
+CA04—Gold Plated Axe	common	{3}	Artifact — Equipment 	normal
+UA01—Alliance Vault	uncommon	{3}	Artifact — Relic 	normal
+UA02—Transformation Vault	uncommon	{3}	Artifact — Relic 	normal
+UA03—Undercity Vault	uncommon	{3}	Artifact — Relic 	normal
+UA04—Ethereal Vault	uncommon	{3}	Artifact — Relic 	normal
+CL11—Seaside Village	common		Land	normal
+CL01—Imperial Throneroom	common		Land	normal
+CL02—Untamed Woodland	common		Land	normal
+CL03—Orthodox Temple	common		Land	normal
+CL04—Sun Moon Bastion	common		Land	normal
+CL05—Mountain Encampment	common		Land	normal
+UA05—Imperial Vault	uncommon	{3}	Artifact — Relic 	normal
+RX03—QiangLiang ,The Possession Armor	rare	{3}	Legendary Artifact — Equipment 	normal
+MA01—Nebula, the Scale of Truths	mythic	{4}	Legendary Artifact	normal
+RX06—Boots with the Fur	rare	{0}	Artifact — Equipment 	normal
+RX07—Ten Thousand Faces	rare	{3}	Legendary Artifact — Equipment 	normal
+RX08—Coins for the Dead	uncommon	{1}	Artifact	normal
+MX01—Emporer's Garden	rare		Legendary Land	transform double faced
+SU08—Butterfly Bladesman	common	{W}{U}	Creature — Human Cultivator 	normal
+SU07—Hunted Fugitive	common	{1}{U}{B}	Creature — Human Cultivator 	transform double faced
+SU10—Mosswalker	common	{1}{R}{G}	Enchantment Creature — Salamander Spirit 	normal
+SU09—Black Tiger Maurader	common	{3}{B}{R}	Creature — Human Ronin 	normal
+SU06—Dynastic Magistrate	common	{4}{G}{W}	Creature — Human Advisor 	normal
+The Great Dao	mythic	{W}{U}{B}{R}{G}	Sorcery	normal
+SU02—Conspicuous Mercenary	common	{1}{R}{W}	Creature — Human Warrior 	normal
+SU05—Yin Qi Demon Beast	common	{1}{G}{U}	Enchantment Creature — Spirit Demon Beast 	normal
+SU01—Beastly Deciever	common	{U}{R}	Enchantment Creature — Spirit Fox 	normal
+SU04—Imperial Mercenary	common	{3}{W}{B}	Creature — Human  Warrior 	normal
+SU03—Corrupt Officials	common	{2}{B}{G}	Creature — Human Noble 	normal
+SU08—Tranquil Wanderer	common	{6}{W}{U}	Creature — Human Monk Warrior 	normal
+SU05—Hatchery Experiment	common	{G}{U}	Sorcery	normal
+SU10—Toadally Broken	common	{3}{R}{G}	Enchantment	normal
+SU06—Town Market	common	{2}{G}{W}	Enchantment	normal
+SU09—Pressure	common	{1}{B}{R}	Sorcery	normal
+SU02—Exiled Practicioner	common	{R}{W}	Creature — Human Cultivator Bandit 	normal
+SU07—Forbidden Knowledge	common	{4}{U}{B}	Sorcery	normal
+SU01—Spectral Panther	common	{2}{U}{R}	Creature — Spirit Beast 	normal
+SU04—Sound the Drums	common	{1}{W}{B}	Sorcery	normal
+SU03—Bread	common	{1}{B}{G}	Creature — Human Warrior 	transform double faced
+Forest	basic land		Basic Land — Forest 	normal
+Mountain	basic land		Basic Land — Mountain 	normal
+Swamp	basic land		Basic Land — Swamp 	normal
+UL01—Skybound Pagoda	uncommon		Land	normal
+UL06—Shifting Vista	uncommon		Land	normal
+Plains	basic land		Land	normal
+Island	basic land		Basic Land — Island 	normal
+UL02—Chained Fortress	uncommon		Land	normal
+UL03—Demons Den	uncommon		Land	normal
+UL05—Imperial Sanctuary	uncommon		Land	normal
+UL04—Enchanted Grotto	uncommon		Land	normal
+Predator Role	common		Token Enchantment — Aura Role 	token
+Scavenger Role	common		Token Enchantment — Aura Role 	token
+Prey Role	common		Token Enchantment — Aura Role 	token
+CB06—Sun Moon Banner	common	{2}{B}	Artifact	normal
+Toad	common		Token Creature — Toad 	token
+Warrior	common		Token Creature — Warrior 	token
+Blood	common		Token Artifact — Blood 	token
+Food	common		Token Artifact — Food 	token
+Copy	common		Token Creature — Copy 	token
+Bird	common		Token Creature — Bird 	token
+Spy	common		Token Creature — Spy 	token
+	]
+	[RareSlot(1)]
+	3 RU07—Bazaar Peddelar
+		3 RB07—Painted Lady
+		3 RU03—Twin Form Practicioner
+		3 RR06—Jīngxi the Chained Pheonix
+		3 RW03—Son of the Dragon
+		3 RW02—Contracted Ceasefire
+		3 RW04—Wéi Guāng, Warrior Prince
+		3 RW05—Call the Anscestors
+		3 RW06—Nascent Realm Master
+		3 RU01—Pavilion Master
+		3 RU02—Moon Division Commander
+		3 RU04—Luóshuān, Son of Thunder
+		3 RU05—Crystal Amulet
+		3 RU06—Quicksilver Tortoise
+		3 RB01—Sun Division Commander
+		3 RB02—The Black Gate
+		3 RB03—Information Network
+		3 RB04—Spoiled
+		3 RB05—Possesion Practicioner
+		3 RR01—Drunken Master
+		3 RR02—Jeeves, Blade Dancer
+		3 RR03—Primordial Qi Release
+		3 RR04—The Vermilion Bird of the South
+		3 RR05—The White Tiger of the West
+		3 RG06—Imperial Barracks
+		3 RG01—The Black Tortoise of the North
+		3 RG02—The Azure Dragon of the East
+		3 RG03—Imperial General
+		3 RW01—Sunblast Edict
+		3 RG05—Princess Jīhuì the Spectral
+		3 RR07—Oogoma, Eater of Souls
+		3 RW07—The Qíjī Physician
+		3 RB06—Necrotic Returner
+		3 RG04—Bull
+		3 RG07—Steadfast Guardian
+		3 RM01—Unorthodox Ascendancy
+		3 RM01—Dynastic Ascendancy
+		3 RM01—Orthodox Ascendancy
+		3 RM01—Spirit Beast Ascendancy
+		3 RM01—Sun Moon Ascendancy
+		3 RX03—QiangLiang ,The Possession Armor
+		3 RX06—Boots with the Fur
+		3 RX07—Ten Thousand Faces
+		3 MX01—Emporer's Garden
+		1 MW02—Dante the Stranger
+		1 MW01—Empress Biān
+		1 MB02—Tāotiè, the First Peril
+		1 MB01—QiongQi, the Fourth Peril
+		1 MG02—TaoWu, the Third Peril
+		1 MG01—HunDun, the Second Peril
+		1 MU01—Sky Scribes Invocation
+		1 MU02—Léibào, Orthodox Prodigy
+		1 MR01—Bēishāng the Nine-Tailed Fox
+		1 MR02—Eye of the Void Colossus
+		1 RM02—Yùlóng, Eternal Emporer
+		1 RM02—Hòuwèi, the Spirit King
+		1 RM02—Xuè Yuè, the Steel Tempest
+		1 RM02—Báihè, the Unifier
+		1 RM02—Hēi Tàiyáng, the Heavenly Demon
+		1 MA01—Nebula, the Scale of Truths
+		1 The Great Dao
+		[UncommonSlot(3)]
+	9 UW10—Trigram Palm
+		9 UW13—Seal Release
+		9 UW12—Signal Flare
+		9 UU12—Nascent Dissipator
+		9 UU06—Blade Aura
+		9 UB13—Sun Moon Holy Ritual
+		9 UB12—Harrowing Call
+		9 UR13—Overwhelming Force
+		9 UR12—Lantern Warden
+		9 UG13—Murk Stomper
+		9 UG12—Territory Reclamation
+		9 UW01—Avenge the Fallen
+		9 UW02—Secluded Elder
+		9 UW03—Joint Effort
+		9 UW04—Refraction Spear Monk
+		9 UW05—Imperial Decree
+		9 UW06—Exorcist
+		9 UW07—Southland Rider
+		9 UW08—Procession Mask
+		9 UW09—Prison Pagoda
+		9 UW11—Turned Blade
+		9 UU02—GreenRiver Goldfish
+		9 UU03— Clan Tacticians
+		9 UU04—Mirror Formation
+		9 UU05—Demonic Infiltrator
+		9 UU07—Eight Trigrams Practitioner
+		9 UU08—Qigong Teqnichue
+		9 UU09—Wavereader Pilgrem
+		9 UU10—Buttery
+		9 UU11—Starscale Frillback
+		9 UB01—Pure Yin Constitution
+		9 UB02—Forest of Trophies
+		9 UB03—Servant of the Void
+		9 UB04—Coux
+		9 UB05—Bandit Captain
+		9 UB06—Blackmarket Enforcer
+		9 UB07—Harvesting Operation
+		9 UB08—Madam Shí
+		9 UB09—Give your Offerings
+		9 UB10—Lunar Ascencion Pill
+		9 UB11—Palace Guard
+		9 UR01—Pure Yang Constition
+		9 UR02—Blink Toad
+		9 UR03—Hungry Toad
+		9 UR04—Nowhere to Run
+		9 UR05—Warforged Raider
+		9 UR07—Gift of the Void Fire
+		9 UR08—Gold Core Flameweaver
+		9 UR09— Meridian Overload
+		9 UR10—Bronze Skin Berserker
+		9 UR11—Parry
+		9 UG01—Dynasty Warding Beast
+		9 UG02—Smoke Walker
+		9 UG03—Pulverization Palm
+		9 UG04—Mountain Top Guide
+		9 UG05—Royal Courtesan
+		9 UG06—Beast Palace Calvary
+		9 UG07—Unyeilding Blademaster
+		9 UG08—Lord of the Mountain
+		9 UG09—Village Head
+		9 UG10—Gaurdian Lion
+		9 UG11—Trader's Cart
+		9 UU01—Drag to the Surface
+		9 UU13—Blocked Acupoints
+		9 UR06—Flametooth Maurader
+		9 UM01—Court Official
+		9 UM01—Inner Desciple
+		9 UM01—Sun Moon Squad Captian
+		9 UM01—Gold Core Ronin
+		9 UM01—Three-Legged Toad
+		9 UM02—Sky Pavilion Disciple
+		9 UM02—Thousand-Soul Banner
+		9 UM02—Supply Route Raiders
+		9 UM02—Ambush Toad
+		9 UM02—Imperial Advisor
+		9 UA01—Alliance Vault
+		9 UA02—Transformation Vault
+		9 UA03—Undercity Vault
+		9 UA04—Ethereal Vault
+		9 UA05—Imperial Vault
+		9 RX08—Coins for the Dead
+		9 UL01—Skybound Pagoda
+		9 UL06—Shifting Vista
+		9 UL02—Chained Fortress
+		9 UL03—Demons Den
+		9 UL05—Imperial Sanctuary
+		9 UL04—Enchanted Grotto
+		[CommonSlot(10)]
+	30 CW01—Inner Balance
+		30 CW02—Sword Technique
+		30 CW04—Orthodox Quickblade
+		30 CR10—Apex Hunter
+		30 CW05—Sect Instructor
+		30 CW06—Talisman Warder
+		30 CW07—Pilgrimage
+		30 CW08—Wandering Taoist
+		30 CW09—Wandering Ascetic
+		30 CW10—Qingchen Sect Warrior
+		30 CW11—Central Plains Huntsman
+		30 CW12—Pathfinder Monk
+		30 CW13—Sky's Retribution
+		30 CW14—Interloper's Verdict
+		30 CW15—Warwaker
+		30 CW16—Palace Malitia
+		30 CU01—Qi Refinement
+		30 CU02—Illusion Technique
+		30 CU03—BlueJay Patrol
+		30 CU04—Pocket Dimension
+		30 CU05—Orthodoxy Banner
+		30 CU07—Spiritual Absorption
+		30 CU08—Illusionist Practicioner
+		30 CU10—Premonition
+		30 CU11—Hooktongue Toad
+		30 CU12—Crane School Disciple
+		30 CU13—Red Light Courtesan
+		30 CU15—Blue Mountain Crane
+		30 CU16—Temple's Procession
+		30 CU17—South Bound Swordsman
+		30 CU06—Beast of Burden
+		30 CB01—Qi Deviation
+		30 CB02—Hidden Weapons Technique
+		30 CB03—Dantian Destuction
+		30 CB04—Cult Initiate
+		30 CB07—Stockpile
+		30 CB08—Depth Exploration
+		30 CB09—Vengeful Wanderer
+		30 CB10—Veteran Mercenary
+		30 CB11—Sun Moon Infiltrator
+		30 CB13—Unorthodox Infiltrator
+		30 CB14—Injured Assailant
+		30 CB15—Deal Behind Closed Doors
+		30 CB16—Palace Watch
+		30 CB17—Demonic Convulsion
+		30 CR01—Clan Pillaging
+		30 CR02—Sabre Technique
+		30 CR03—Thunder Tribulation
+		30 CR04—Mercenary Banner
+		30 CR05—Southland Redwing
+		30 CR06—Green Mountain Pillager
+		30 CR07—Mountain Bandits
+		30 CR08—Townedge Toad
+		30 CR09—Firefont Bellringer
+		30 CR11—Horned Tiger
+		30 CR13—Firepalm Vindicator
+		30 CR14—Westland Breserker
+		30 CR15—Clear a Path
+		30 CR16—Void Firebolt
+		30 CR17—Sweeping Reversal
+		30 CG01—Thousand-Year Ginseng
+		30 CG02—Fist Technique
+		30 CG03—Escort Convoy
+		30 CG04—Ancient Toadling
+		30 CG05—Disperse Evil
+		30 CG06—Westland Escort
+		30 CG07—Dumb
+		30 CG08—Naval Commander
+		30 CG09—Hoarding Toad
+		30 CG10—Palace Provisioner
+		30 CG11—Grizzly Woodcutter
+		30 CG12—Outnumbered, Unmatched
+		30 CG13—Fanged Greed Beast
+		30 CG14—Clan Dispute
+		30 CG15—Beast Palace Banner
+		30 CG17—Iron Bone Practicioner
+		30 CW03—Imperial Banner
+		30 CU09—Tide Lurker
+		30 CB05—Village Prefects
+		30 CA01—Family Heirloom
+		30 CA02—Pit Shackles
+		30 CA03—Mystic's Lantern
+		30 CA04—Gold Plated Axe
+		30 CL11—Seaside Village
+		30 CL01—Imperial Throneroom
+		30 CL02—Untamed Woodland
+		30 CL03—Orthodox Temple
+		30 CL04—Sun Moon Bastion
+		30 CL05—Mountain Encampment
+		30 SU08—Butterfly Bladesman
+		30 SU07—Hunted Fugitive
+		30 SU10—Mosswalker
+		30 SU09—Black Tiger Maurader
+		30 SU06—Dynastic Magistrate
+		30 SU02—Conspicuous Mercenary
+		30 SU05—Yin Qi Demon Beast
+		30 SU01—Beastly Deciever
+		30 SU04—Imperial Mercenary
+		30 SU03—Corrupt Officials
+		30 SU08—Tranquil Wanderer
+		30 SU05—Hatchery Experiment
+		30 SU10—Toadally Broken
+		30 SU06—Town Market
+		30 SU09—Pressure
+		30 SU02—Exiled Practicioner
+		30 SU07—Forbidden Knowledge
+		30 SU01—Spectral Panther
+		30 SU04—Sound the Drums
+		30 SU03—Bread
+		30 Predator Role
+		30 Scavenger Role
+		30 Prey Role
+		30 CB06—Sun Moon Banner
+		30 Toad
+		30 Warrior
+		30 Blood
+		30 Food
+		30 Copy
+		30 Bird
+		30 Spy
+		
