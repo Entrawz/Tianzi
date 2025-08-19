@@ -131,7 +131,7 @@
 	    {
 	        "name": "CW13—Sky's Retribution",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW13—Sky's Retribution.png"
@@ -260,7 +260,7 @@
 	    {
 	        "name": "CU08—Illusionist Practicioner",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU08—Illusionist Practicioner.png"
@@ -296,7 +296,7 @@
 	    {
 	        "name": "CU12—Crane School Disciple",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU12—Crane School Disciple.png"
@@ -504,7 +504,7 @@
 	        "name": "CB10—Veteran Mercenary",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Human  Bandit ",
+	        "type": "Creature — Human  Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB10—Veteran Mercenary.png"
 	        }
@@ -567,12 +567,12 @@
 	        }
 	    },
 	    {
-	        "name": "CB16—Palace Watch",
+	        "name": "CB16—Highwall Patrol",
 	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB16—Palace Watch.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB16—Highwall Patrol.png"
 	        }
 	    },
 	    {
@@ -671,8 +671,8 @@
 	    {
 	        "name": "CR08—Townedge Toad",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
-	        "type": "Creature — Spirit Beast ",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment Creature — Spirit Toad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR08—Townedge Toad.png"
 	        }
@@ -810,7 +810,7 @@
 	        "name": "CG05—Disperse Evil",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG05—Disperse Evil.png"
 	        }
@@ -1205,7 +1205,7 @@
 	    {
 	        "name": "UB01—Pure Yin Constitution",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB01—Pure Yin Constitution.png"
@@ -1308,7 +1308,7 @@
 	        "name": "UB11—Palace Guard",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Human Noble ",
+	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB11—Palace Guard.png"
 	        }
@@ -2477,7 +2477,7 @@
 	    {
 	        "name": "SU04—Imperial Mercenary",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}{B}",
+	        "mana_cost": "{2}{R}{W}{B}",
 	        "type": "Creature — Human  Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU04—Imperial Mercenary.png"
@@ -2575,7 +2575,7 @@
 	    },
 	    {
 	        "name": "SU03—Borderland Defender",
-	        "mana_cost": "{1}{B}{G}{U}",
+	        "mana_cost": "{1}{B}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU03—Borderland Defender.png"
@@ -3022,7 +3022,7 @@
 		90 CB13—Unorthodox Infiltrator
 		90 CB14—Injured Assailant
 		90 CB15—Deal Behind Closed Doors
-		90 CB16—Palace Watch
+		90 CB16—Highwall Patrol
 		90 CB17—Demonic Convulsion
 		90 CR01—Clan Pillaging
 		90 CR02—Sabre Technique
