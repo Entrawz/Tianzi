@@ -1,22 +1,22 @@
 [CustomCards]
 	[    {
-	        "name": "CW01—Inner Balance",
+	        "name": "CW11—Inner Balance",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW01—Inner Balance.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW11—Inner Balance.png"
 	        }
 	    },
 	    {
-	        "name": "CW02—Sword Technique",
+	        "name": "CW16—Sword Technique",
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW02—Sword Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW16—Sword Technique.png"
 	        },
 	        "printed names": {
-	            "en": "CW02—Sword Technique"
+	            "en": "CW16—Sword Technique"
 	        },
 	        "back": {
 	            "name": "Swordsmanship Mastery",
@@ -30,39 +30,39 @@
 	        }
 	    },
 	    {
-	        "name": "UW10—Trigram Palm",
+	        "name": "UW07—Trigram Palm",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW10—Trigram Palm.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW07—Trigram Palm.png"
 	        }
 	    },
 	    {
-	        "name": "CW04—Orthodox Quickblade",
+	        "name": "CW09—Orthodox Quickblade",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Human Swordsman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW04—Orthodox Quickblade.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW09—Orthodox Quickblade.png"
 	        }
 	    },
 	    {
-	        "name": "CR10—Apex Hunter",
+	        "name": "CR10—Favor of the Beast Palace",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR10—Apex Hunter.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR10—Favor of the Beast Palace.png"
 	        }
 	    },
 	    {
-	        "name": "CW05—Sect Instructor",
+	        "name": "CW01—Sect Instructor",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW05—Sect Instructor.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW01—Sect Instructor.png"
 	        }
 	    },
 	    {
@@ -75,131 +75,131 @@
 	        }
 	    },
 	    {
-	        "name": "CW07—Pilgrimage",
+	        "name": "CW13—Pilgrimage",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW07—Pilgrimage.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW13—Pilgrimage.png"
 	        }
 	    },
 	    {
-	        "name": "CW08—Wandering Taoist",
+	        "name": "CW08—Evasive Exile",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW08—Wandering Taoist.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW08—Evasive Exile.png"
 	        }
 	    },
 	    {
-	        "name": "CW09—Wandering Ascetic",
+	        "name": "CW07—Wandering Ascetic",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW09—Wandering Ascetic.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW07—Wandering Ascetic.png"
 	        }
 	    },
 	    {
-	        "name": "CW10—Qingchen Sect Warrior",
+	        "name": "CW02—Sect Warrior",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW10—Qingchen Sect Warrior.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW02—Sect Warrior.png"
 	        }
 	    },
 	    {
-	        "name": "CW11—Central Plains Huntsman",
+	        "name": "CW03—Central Plains Huntsman",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW11—Central Plains Huntsman.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW03—Central Plains Huntsman.png"
 	        }
 	    },
 	    {
-	        "name": "CW12—Pathfinder Monk",
+	        "name": "CW04—Pathfinder Monk",
 	        "rarity": "common",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW12—Pathfinder Monk.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW04—Pathfinder Monk.png"
 	        }
 	    },
 	    {
-	        "name": "CW13—Sky's Retribution",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW13—Sky's Retribution.png"
-	        }
-	    },
-	    {
-	        "name": "CW14—Interloper's Verdict",
+	        "name": "CW15—Sky's Retribution",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW15—Sky's Retribution.png"
+	        }
+	    },
+	    {
+	        "name": "CW12—Interloper's Verdict",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW14—Interloper's Verdict.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW12—Interloper's Verdict.png"
 	        }
 	    },
 	    {
-	        "name": "CW15—Imperial Warwaker",
+	        "name": "CW10—Imperial Warwaker",
 	        "rarity": "common",
-	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Human Citizen ",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW15—Imperial Warwaker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW10—Imperial Warwaker.png"
 	        }
 	    },
 	    {
-	        "name": "CW16—Palace Malitia",
+	        "name": "CW05—Palace Malitia",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW16—Palace Malitia.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW05—Palace Malitia.png"
 	        }
 	    },
 	    {
-	        "name": "UW13—Seal Release",
+	        "name": "UW013—Seal Release",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW13—Seal Release.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW013—Seal Release.png"
 	        }
 	    },
 	    {
-	        "name": "UW12—Signal Flare",
+	        "name": "UW11—Signal Flare",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW12—Signal Flare.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW11—Signal Flare.png"
 	        }
 	    },
 	    {
-	        "name": "CU01—Qi Refinement",
+	        "name": "CU11—Qi Refinement",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU01—Qi Refinement.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU11—Qi Refinement.png"
 	        }
 	    },
 	    {
-	        "name": "CU02—Illusion Technique",
-	        "mana_cost": "{2}{U}",
+	        "name": "CU16—Illusion Technique",
+	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU02—Illusion Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU16—Illusion Technique.png"
 	        },
 	        "printed names": {
-	            "en": "CU02—Illusion Technique"
+	            "en": "CU16—Illusion Technique"
 	        },
 	        "back": {
 	            "name": "Formations Expertise",
@@ -213,191 +213,191 @@
 	        }
 	    },
 	    {
-	        "name": "CU03—BlueJay Patrol",
+	        "name": "CU01—Bluejay Patrol",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU03—BlueJay Patrol.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU01—Bluejay Patrol.png"
 	        }
 	    },
 	    {
-	        "name": "CU04—Pocket Dimension",
+	        "name": "CU12—Pocket Dimension",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU04—Pocket Dimension.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU12—Pocket Dimension.png"
 	        }
 	    },
 	    {
-	        "name": "CU05—Orthodoxy Banner",
+	        "name": "CU14—Orthodoxy Banner",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU05—Orthodoxy Banner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU14—Orthodoxy Banner.png"
 	        }
 	    },
 	    {
-	        "name": "UU12—Nascent Dissipator",
+	        "name": "UU05—Nascent Dissipator",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU12—Nascent Dissipator.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU05—Nascent Dissipator.png"
 	        }
 	    },
 	    {
-	        "name": "CU07—Spiritual Absorption",
+	        "name": "CU13—Spiritual Absorption",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU07—Spiritual Absorption.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU13—Spiritual Absorption.png"
 	        }
 	    },
 	    {
-	        "name": "CU08—Illusionist Practicioner",
+	        "name": "CU10—Illusionist Practicioner",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU08—Illusionist Practicioner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU10—Illusionist Practicioner.png"
 	        }
 	    },
 	    {
-	        "name": "UU06—Blade Aura",
+	        "name": "UU09—Blade Aura",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU06—Blade Aura.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU09—Blade Aura.png"
 	        }
 	    },
 	    {
-	        "name": "CU10—Premonition",
+	        "name": "CU15—Premonition",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU10—Premonition.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU15—Premonition.png"
 	        }
 	    },
 	    {
-	        "name": "CU11—Hooktongue Toad",
+	        "name": "CU04—Hooktongue Toad",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment Creature — Spirit Toad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU11—Hooktongue Toad.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU04—Hooktongue Toad.png"
 	        }
 	    },
 	    {
-	        "name": "CU12—Crane School Disciple",
+	        "name": "CU08—Crane School Disciple",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU12—Crane School Disciple.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU08—Crane School Disciple.png"
 	        }
 	    },
 	    {
-	        "name": "CU13—Red Light Courtesan",
+	        "name": "CU06—Red Light Courtesan",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU13—Red Light Courtesan.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU06—Red Light Courtesan.png"
 	        }
 	    },
 	    {
-	        "name": "CU15—Blue Mountain Crane",
+	        "name": "CU05—Blue Mountain Crane",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Spirit Beast Crane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU15—Blue Mountain Crane.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU05—Blue Mountain Crane.png"
 	        }
 	    },
 	    {
-	        "name": "CU16—Temple's Procession",
-	        "mana_cost": "{U}",
+	        "name": "CU03—Temple Procession",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU16—Temple's Procession.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU03—Temple Procession.png"
 	        },
 	        "printed names": {
-	            "en": "CU16—Temple's Procession"
+	            "en": "CU03—Temple Procession"
 	        },
 	        "back": {
-	            "name": "Unvieled Nightmare",
+	            "name": "The Avarice Behind the Veil",
 	            "printed_names": {
-	                "en": "Unvieled Nightmare"
+	                "en": "The Avarice Behind the Veil"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Unvieled Nightmare.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Avarice Behind the Veil.png"
 	            },
 	            "type": "Creature — Demon Monk "
 	        }
 	    },
 	    {
-	        "name": "CU17—South Bound Swordsman",
-	        "mana_cost": "{1}{U}",
+	        "name": "CU07—South Bound Swordsman",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Swordsman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU17—South Bound Swordsman.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU07—South Bound Swordsman.png"
 	        },
 	        "printed names": {
-	            "en": "CU17—South Bound Swordsman"
+	            "en": "CU07—South Bound Swordsman"
 	        },
 	        "back": {
-	            "name": "Vermilion Terror",
+	            "name": "The Price of Imputence",
 	            "printed_names": {
-	                "en": "Vermilion Terror"
+	                "en": "The Price of Imputence"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Vermilion Terror.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Price of Imputence.png"
 	            },
 	            "type": "Creature — Demon Swordsman "
 	        }
 	    },
 	    {
-	        "name": "RU07—Bazaar Peddler",
+	        "name": "RU07—Talisman Whale",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{U}{U}",
-	        "type": "Enchantment Creature — Spirit Beast ",
+	        "type": "Enchantment Creature — Spirit Whale ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RU07—Bazaar Peddler.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RU07—Talisman Whale.png"
 	        }
 	    },
 	    {
-	        "name": "CU06—Beast of Burden",
+	        "name": "CU09—Beast of Burden",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Enchantment Creature — Spirit Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU06—Beast of Burden.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU09—Beast of Burden.png"
 	        }
 	    },
 	    {
-	        "name": "CB01—Qi Deviation",
+	        "name": "CB09—Qi Deviation",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB01—Qi Deviation.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB09—Qi Deviation.png"
 	        }
 	    },
 	    {
-	        "name": "CB02—Hidden Weapons Technique",
+	        "name": "CB11—Hidden Weapons Technique",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB02—Hidden Weapons Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB11—Hidden Weapons Technique.png"
 	        },
 	        "printed names": {
-	            "en": "CB02—Hidden Weapons Technique"
+	            "en": "CB11—Hidden Weapons Technique"
 	        },
 	        "back": {
 	            "name": "Invisible Blades",
@@ -411,17 +411,17 @@
 	        }
 	    },
 	    {
-	        "name": "CB03—Dantian Destuction",
+	        "name": "CB16—Dantian Destuction",
 	        "rarity": "common",
-	        "mana_cost": "{4}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB03—Dantian Destuction.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB16—Dantian Destuction.png"
 	        }
 	    },
 	    {
 	        "name": "CB04—Cult Initiate",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB04—Cult Initiate.png"
@@ -441,14 +441,14 @@
 	        }
 	    },
 	    {
-	        "name": "RB07—Painted Lady",
+	        "name": "RB07—The Painted Lady",
 	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Human Citizen Cultivator ",
+	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB07—Painted Lady.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB07—The Painted Lady.png"
 	        },
 	        "printed names": {
-	            "en": "RB07—Painted Lady"
+	            "en": "RB07—The Painted Lady"
 	        },
 	        "back": {
 	            "name": "The Sketched Nightmare",
@@ -458,94 +458,94 @@
 	            "image_uris": {
 	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Sketched Nightmare.png"
 	            },
-	            "type": "Creature — Demon Cultivator "
+	            "type": "Legendary Creature — Demon "
 	        }
 	    },
 	    {
-	        "name": "CB07—Stockpile",
+	        "name": "CB13—Stockpile",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB07—Stockpile.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB13—Stockpile.png"
 	        }
 	    },
 	    {
-	        "name": "CB08—Depth Exploration",
+	        "name": "CB14—Depth Exploration",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB08—Depth Exploration.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB14—Depth Exploration.png"
 	        }
 	    },
 	    {
-	        "name": "CB09—Vengeful Wanderer",
-	        "mana_cost": "{1}{B}",
+	        "name": "CB06—Reckless Challenger",
+	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB09—Vengeful Wanderer.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB06—Reckless Challenger.png"
 	        },
 	        "printed names": {
-	            "en": "CB09—Vengeful Wanderer"
+	            "en": "CB06—Reckless Challenger"
 	        },
 	        "back": {
-	            "name": "Wandering Terror",
+	            "name": "The Hunger for Authority",
 	            "printed_names": {
-	                "en": "Wandering Terror"
+	                "en": "The Hunger for Authority"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Wandering Terror.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Hunger for Authority.png"
 	            },
 	            "type": "Creature — Demon Cultivator "
 	        }
 	    },
 	    {
-	        "name": "CB10—Veteran Mercenary",
+	        "name": "CB03—Veteran Mercenary",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human  Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB10—Veteran Mercenary.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB03—Veteran Mercenary.png"
 	        }
 	    },
 	    {
-	        "name": "CB11—Sun Moon Infiltrator",
+	        "name": "CB02—Sun Moon Infiltrator",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human  Spy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB11—Sun Moon Infiltrator.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB02—Sun Moon Infiltrator.png"
 	        },
 	        "printed names": {
-	            "en": "CB11—Sun Moon Infiltrator"
+	            "en": "CB02—Sun Moon Infiltrator"
 	        },
 	        "back": {
-	            "name": "Illusion Weaver",
+	            "name": "The Lust for Knowledge",
 	            "printed_names": {
-	                "en": "Illusion Weaver"
+	                "en": "The Lust for Knowledge"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Illusion Weaver.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Lust for Knowledge.png"
 	            },
 	            "type": "Creature — Demon Mystic "
 	        }
 	    },
 	    {
-	        "name": "CB13—Unorthodox Infiltrator",
+	        "name": "CB01—Unorthodox Infiltrator",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Spy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB13—Unorthodox Infiltrator.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB01—Unorthodox Infiltrator.png"
 	        }
 	    },
 	    {
-	        "name": "CB14—Injured Assailant",
+	        "name": "CB07—Injured Assailant",
 	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB14—Injured Assailant.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB07—Injured Assailant.png"
 	        }
 	    },
 	    {
@@ -567,21 +567,21 @@
 	        }
 	    },
 	    {
-	        "name": "CB16—Highwall Patrol",
+	        "name": "CB08—Highwall Patrol",
 	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Human Citizen ",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB16—Highwall Patrol.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB08—Highwall Patrol.png"
 	        }
 	    },
 	    {
-	        "name": "CB17—Demonic Convulsion",
+	        "name": "CB12—Demonic Convulsion",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB17—Demonic Convulsion.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB12—Demonic Convulsion.png"
 	        }
 	    },
 	    {
@@ -594,23 +594,23 @@
 	        }
 	    },
 	    {
-	        "name": "CR01—Clan Pillaging",
+	        "name": "CR14—Clan Pillaging",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR01—Clan Pillaging.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR14—Clan Pillaging.png"
 	        }
 	    },
 	    {
-	        "name": "CR02—Sabre Technique",
+	        "name": "CR13—Sabre Technique",
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR02—Sabre Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR13—Sabre Technique.png"
 	        },
 	        "printed names": {
-	            "en": "CR02—Sabre Technique"
+	            "en": "CR13—Sabre Technique"
 	        },
 	        "back": {
 	            "name": "Heavy Weapons Specialist",
@@ -624,39 +624,39 @@
 	        }
 	    },
 	    {
-	        "name": "CR03—Thunder Tribulation",
+	        "name": "CR09—Thunder Tribulation",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR03—Thunder Tribulation.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR09—Thunder Tribulation.png"
 	        }
 	    },
 	    {
-	        "name": "CR04—Mercenary Banner",
+	        "name": "CR11—Mercenary Banner",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR04—Mercenary Banner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR11—Mercenary Banner.png"
 	        }
 	    },
 	    {
-	        "name": "CR05—Southland Redwing",
+	        "name": "CR01—Southland Redwing",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Enchantment Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR05—Southland Redwing.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR01—Southland Redwing.png"
 	        }
 	    },
 	    {
-	        "name": "CR06—Green Mountain Pillager",
+	        "name": "CR07—Green Mountain Pillager",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Bandit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR06—Green Mountain Pillager.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR07—Green Mountain Pillager.png"
 	        }
 	    },
 	    {
@@ -669,54 +669,54 @@
 	        }
 	    },
 	    {
-	        "name": "CR08—Townedge Toad",
+	        "name": "CR04—Coal Scale Coiler",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Spirit Toad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR08—Townedge Toad.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR04—Coal Scale Coiler.png"
 	        }
 	    },
 	    {
-	        "name": "CR09—Firefont Bellringer",
+	        "name": "CR05—Firefont Bellringer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Cultivator Mystic ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR09—Firefont Bellringer.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR05—Firefont Bellringer.png"
 	        }
 	    },
 	    {
-	        "name": "CR11—Horned Tiger",
+	        "name": "CR03—Horned Tiger",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR11—Horned Tiger.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR03—Horned Tiger.png"
 	        }
 	    },
 	    {
-	        "name": "CR13—Firepalm Vindicator",
+	        "name": "CR02—Firepalm Vindicator",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR13—Firepalm Vindicator.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR02—Firepalm Vindicator.png"
 	        }
 	    },
 	    {
-	        "name": "CR14—Westland Breserker",
+	        "name": "CR06—Westland Berserker",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Bandit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR14—Westland Breserker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR06—Westland Berserker.png"
 	        }
 	    },
 	    {
 	        "name": "CR15—Clear a Path",
 	        "rarity": "common",
-	        "mana_cost": "{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR15—Clear a Path.png"
@@ -743,39 +743,39 @@
 	    {
 	        "name": "UR13—Overwhelming Force",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR13—Overwhelming Force.png"
 	        }
 	    },
 	    {
-	        "name": "UR12—Lantern Warden",
+	        "name": "UR07—Lantern Warden",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR12—Lantern Warden.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR07—Lantern Warden.png"
 	        }
 	    },
 	    {
-	        "name": "CG01—Thousand-Year Ginseng",
+	        "name": "CG16—Thousand-Year Ginseng",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG01—Thousand-Year Ginseng.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG16—Thousand-Year Ginseng.png"
 	        }
 	    },
 	    {
-	        "name": "CG02—Fist Technique",
+	        "name": "CG11—Fist Technique",
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG02—Fist Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG11—Fist Technique.png"
 	        },
 	        "printed names": {
-	            "en": "CG02—Fist Technique"
+	            "en": "CG11—Fist Technique"
 	        },
 	        "back": {
 	            "name": "Explosive Strength",
@@ -789,41 +789,41 @@
 	        }
 	    },
 	    {
-	        "name": "CG03—Escort Convoy",
+	        "name": "CG02—Escort Convoy",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG03—Escort Convoy.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG02—Escort Convoy.png"
 	        }
 	    },
 	    {
-	        "name": "CG04—Ancient Toadling",
+	        "name": "CG07—Ancient Toadling",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Toad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG04—Ancient Toadling.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG07—Ancient Toadling.png"
 	        }
 	    },
 	    {
-	        "name": "CG05—Disperse Evil",
+	        "name": "CG13—Disperse Evil",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG05—Disperse Evil.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG13—Disperse Evil.png"
 	        }
 	    },
 	    {
-	        "name": "CG06—Westland Escort",
+	        "name": "CG03—Westland Escort",
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Bandit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG06—Westland Escort.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG03—Westland Escort.png"
 	        },
 	        "printed names": {
-	            "en": "CG06—Westland Escort"
+	            "en": "CG03—Westland Escort"
 	        },
 	        "back": {
 	            "name": "The Shadow in the Jungle",
@@ -837,70 +837,70 @@
 	        }
 	    },
 	    {
-	        "name": "CG07—Dumb",
+	        "name": "CG06—Shrouded Figure",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature",
+	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG07—Dumb.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG06—Shrouded Figure.png"
 	        },
 	        "printed names": {
-	            "en": "CG07—Dumb"
+	            "en": "CG06—Shrouded Figure"
 	        },
 	        "back": {
-	            "name": "Ass",
+	            "name": "The Voice from the Catacombs",
 	            "printed_names": {
-	                "en": "Ass"
+	                "en": "The Voice from the Catacombs"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Ass.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Voice from the Catacombs.png"
 	            },
-	            "type": "Creature — Demon "
+	            "type": "Creature — Demon Cultivator "
 	        }
 	    },
 	    {
-	        "name": "CG08—Naval Commander",
+	        "name": "CG10—Decorated Commander",
 	        "rarity": "common",
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG08—Naval Commander.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG10—Decorated Commander.png"
 	        }
 	    },
 	    {
-	        "name": "CG09—Hoarding Toad",
+	        "name": "CG01—Hoarding Toad",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Enchantment Creature — Toad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG09—Hoarding Toad.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG01—Hoarding Toad.png"
 	        }
 	    },
 	    {
-	        "name": "CG10—Palace Provisioner",
+	        "name": "CG04—Palace Provisioner",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG10—Palace Provisioner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG04—Palace Provisioner.png"
 	        }
 	    },
 	    {
-	        "name": "CG11—Grizzly Woodcutter",
+	        "name": "CG08—Grizzly Woodcutter",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG11—Grizzly Woodcutter.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG08—Grizzly Woodcutter.png"
 	        },
 	        "printed names": {
-	            "en": "CG11—Grizzly Woodcutter"
+	            "en": "CG08—Grizzly Woodcutter"
 	        },
 	        "back": {
-	            "name": "The Snapping of Branches",
+	            "name": "The Snapping of Bones",
 	            "printed_names": {
-	                "en": "The Snapping of Branches"
+	                "en": "The Snapping of Bones"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Snapping of Branches.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Snapping of Bones.png"
 	            },
 	            "type": "Creature — Spirit Demon "
 	        }
@@ -915,18 +915,18 @@
 	        }
 	    },
 	    {
-	        "name": "CG13—Fanged Greed Beast",
+	        "name": "CG05—Fanged Greed Beast",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG13—Fanged Greed Beast.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG05—Fanged Greed Beast.png"
 	        }
 	    },
 	    {
 	        "name": "CG14—Clan Dispute",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG14—Clan Dispute.png"
@@ -942,21 +942,21 @@
 	        }
 	    },
 	    {
-	        "name": "CG17—Iron Bone Practicioner",
+	        "name": "CG09—Iron Bone Practicioner",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG17—Iron Bone Practicioner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG09—Iron Bone Practicioner.png"
 	        }
 	    },
 	    {
-	        "name": "UG13—Murk Stomper",
+	        "name": "UG04—Murk Stomper",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Toad Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG13—Murk Stomper.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG04—Murk Stomper.png"
 	        }
 	    },
 	    {
@@ -969,30 +969,30 @@
 	        }
 	    },
 	    {
-	        "name": "UW01—Avenge the Fallen",
+	        "name": "UW03—Fángyù, Protector of the Wall",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}{W}",
-	        "type": "Sorcery",
+	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW01—Avenge the Fallen.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW03—Fángyù, Protector of the Wall.png"
 	        }
 	    },
 	    {
-	        "name": "UW02—Secluded Elder",
+	        "name": "UW05—Secluded Elder",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Human Cultivator Ascetic ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW02—Secluded Elder.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW05—Secluded Elder.png"
 	        }
 	    },
 	    {
-	        "name": "UW03—Joint Effort",
+	        "name": "UW10—Joint Effort",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW03—Joint Effort.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW10—Joint Effort.png"
 	        }
 	    },
 	    {
@@ -1005,39 +1005,39 @@
 	        }
 	    },
 	    {
-	        "name": "UW05—Imperial Decree",
+	        "name": "UW08—Imperial Decree",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW05—Imperial Decree.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW08—Imperial Decree.png"
 	        }
 	    },
 	    {
-	        "name": "UW06—Alliance Strategist",
+	        "name": "UW02—Alliance Strategist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW06—Alliance Strategist.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW02—Alliance Strategist.png"
 	        }
 	    },
 	    {
-	        "name": "UW07—Southland Rider",
+	        "name": "UW01—Southland Rider",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Beast Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW07—Southland Rider.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW01—Southland Rider.png"
 	        }
 	    },
 	    {
-	        "name": "UW08—Procession Mask",
+	        "name": "UW12—Procession Mask",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW08—Procession Mask.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW12—Procession Mask.png"
 	        }
 	    },
 	    {
@@ -1050,68 +1050,68 @@
 	        }
 	    },
 	    {
-	        "name": "CW03—Imperial Banner",
+	        "name": "CW14—Imperial Banner",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW03—Imperial Banner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CW14—Imperial Banner.png"
 	        }
 	    },
 	    {
-	        "name": "UW11—Turned Blade",
+	        "name": "UW06—Turned Blade",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW11—Turned Blade.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UW06—Turned Blade.png"
 	        }
 	    },
 	    {
 	        "name": "RU03—Twin Form Practicioner",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{U}{U}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Spirit Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RU03—Twin Form Practicioner.png"
 	        }
 	    },
 	    {
-	        "name": "UU02—GreenRiver Goldfish",
+	        "name": "UU06—Green-River Goldfish",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment Creature — Spirit Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU02—GreenRiver Goldfish.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU06—Green-River Goldfish.png"
 	        }
 	    },
 	    {
-	        "name": "UU03— Clan Tacticians",
+	        "name": "UU07— Clan Tacticians",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Human Cultivator Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU03— Clan Tacticians.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU07— Clan Tacticians.png"
 	        }
 	    },
 	    {
-	        "name": "UU04—Mirror Formation",
+	        "name": "UU12—Paralysis",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU04—Mirror Formation.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU12—Paralysis.png"
 	        }
 	    },
 	    {
-	        "name": "UU05—Demonic Infiltrator",
+	        "name": "UU02—Demonic Infiltrator",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Cultivator Spy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU05—Demonic Infiltrator.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU02—Demonic Infiltrator.png"
 	        },
 	        "printed names": {
-	            "en": "UU05—Demonic Infiltrator"
+	            "en": "UU02—Demonic Infiltrator"
 	        },
 	        "back": {
 	            "name": "The Doubt that Clouds Judgement",
@@ -1125,41 +1125,41 @@
 	        }
 	    },
 	    {
-	        "name": "CU09—Tide Lurker",
+	        "name": "CU02—Tide Lurker",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Enchantment Creature — Spirit Fish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU09—Tide Lurker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU02—Tide Lurker.png"
 	        }
 	    },
 	    {
-	        "name": "UU07—Eight Trigrams Practitioner",
+	        "name": "UU08—Eight Trigrams Practitioner",
 	        "rarity": "uncommon",
 	        "mana_cost": "{6}{U}{U}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU07—Eight Trigrams Practitioner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU08—Eight Trigrams Practitioner.png"
 	        }
 	    },
 	    {
-	        "name": "UU08—Alliance Skyship",
+	        "name": "UU10—Alliance Skyship",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}",
-	        "type": "Enchantment — Aura ",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU08—Alliance Skyship.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU10—Alliance Skyship.png"
 	        }
 	    },
 	    {
-	        "name": "UU09—Wavereader Pilgrem",
+	        "name": "UU01—Wavereader Pilgrem",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU09—Wavereader Pilgrem.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU01—Wavereader Pilgrem.png"
 	        },
 	        "printed names": {
-	            "en": "UU09—Wavereader Pilgrem"
+	            "en": "UU01—Wavereader Pilgrem"
 	        },
 	        "back": {
 	            "name": "The Reflection in the Water",
@@ -1173,89 +1173,89 @@
 	        }
 	    },
 	    {
-	        "name": "UU10—Buttery",
+	        "name": "UU04—Watchful Elder",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU10—Buttery.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU04—Watchful Elder.png"
 	        },
 	        "printed names": {
-	            "en": "UU10—Buttery"
+	            "en": "UU04—Watchful Elder"
 	        },
 	        "back": {
-	            "name": "Biscuit",
+	            "name": "The Desideratum for Longevity",
 	            "printed_names": {
-	                "en": "Biscuit"
+	                "en": "The Desideratum for Longevity"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Biscuit.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Desideratum for Longevity.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
 	    },
 	    {
-	        "name": "UU11—Starscale Frillback",
+	        "name": "UU03—Starscale Frillback",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment Creature — Spirit Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU11—Starscale Frillback.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU03—Starscale Frillback.png"
 	        }
 	    },
 	    {
-	        "name": "UB01—Pure Yin Constitution",
+	        "name": "UB06—Pure Yin Constitution",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB01—Pure Yin Constitution.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB06—Pure Yin Constitution.png"
 	        }
 	    },
 	    {
-	        "name": "UB02—Forest of Trophies",
+	        "name": "UB11—Forest of Trophies",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB02—Forest of Trophies.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB11—Forest of Trophies.png"
 	        }
 	    },
 	    {
-	        "name": "UB03—Servant of the Void",
+	        "name": "UB04—Servant of the Void",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB03—Servant of the Void.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB04—Servant of the Void.png"
 	        }
 	    },
 	    {
-	        "name": "UB04—Coux",
+	        "name": "UB08—Coux",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB04—Coux.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB08—Coux.png"
 	        }
 	    },
 	    {
-	        "name": "UB05—Bandit Captain",
+	        "name": "UB02—Bandit Captain",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Bandit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB05—Bandit Captain.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB02—Bandit Captain.png"
 	        }
 	    },
 	    {
-	        "name": "UB06—Blackmarket Enforcer",
+	        "name": "UB01—Blackmarket Enforcer",
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB06—Blackmarket Enforcer.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB01—Blackmarket Enforcer.png"
 	        },
 	        "printed names": {
-	            "en": "UB06—Blackmarket Enforcer"
+	            "en": "UB01—Blackmarket Enforcer"
 	        },
 	        "back": {
 	            "name": "The Cries of the Wretched",
@@ -1269,57 +1269,57 @@
 	        }
 	    },
 	    {
-	        "name": "UB07—Harvesting Operation",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB07—Harvesting Operation.png"
-	        }
-	    },
-	    {
-	        "name": "UB08—Madam Shí",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{B}",
-	        "type": "Creature — Human Noble ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB08—Madam Shí.png"
-	        }
-	    },
-	    {
-	        "name": "UB09—Give your Offerings",
+	        "name": "UB07—Foul Resuscitation",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB09—Give your Offerings.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB07—Foul Resuscitation.png"
 	        }
 	    },
 	    {
-	        "name": "UB10—Lunar Ascencion Pill",
+	        "name": "UB03—Madam Shí",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB03—Madam Shí.png"
+	        }
+	    },
+	    {
+	        "name": "UB09—Feed the Altar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB09—Feed the Altar.png"
+	        }
+	    },
+	    {
+	        "name": "UB10—Lunar Ascention Pill",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB10—Lunar Ascencion Pill.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB10—Lunar Ascention Pill.png"
 	        }
 	    },
 	    {
-	        "name": "UB11—Palace Guard",
+	        "name": "UB05—Palace Guard",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Human Warrior ",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB11—Palace Guard.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB05—Palace Guard.png"
 	        }
 	    },
 	    {
-	        "name": "UR01—Pure Yang Constition",
+	        "name": "UR10—Pure Yang Constition",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR01—Pure Yang Constition.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR10—Pure Yang Constition.png"
 	        }
 	    },
 	    {
@@ -1332,21 +1332,21 @@
 	        }
 	    },
 	    {
-	        "name": "UR03—Hungry Toad",
+	        "name": "UR04—Hungry Toad",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR03—Hungry Toad.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR04—Hungry Toad.png"
 	        }
 	    },
 	    {
-	        "name": "UR04—Nowhere to Run",
+	        "name": "UR08—Nature's Reciprocity",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR04—Nowhere to Run.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR08—Nature's Reciprocity.png"
 	        }
 	    },
 	    {
@@ -1368,39 +1368,39 @@
 	        }
 	    },
 	    {
-	        "name": "UR07—Gift of the Void Fire",
+	        "name": "UR12—Gift of the Void Fire",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR07—Gift of the Void Fire.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR12—Gift of the Void Fire.png"
 	        }
 	    },
 	    {
-	        "name": "UR08—Gold Core Flameweaver",
+	        "name": "UR03—Gold Core Flameweaver",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR08—Gold Core Flameweaver.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR03—Gold Core Flameweaver.png"
 	        }
 	    },
 	    {
 	        "name": "UR09— Meridian Overload",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{R}{R}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR09— Meridian Overload.png"
 	        }
 	    },
 	    {
-	        "name": "UR10—Bronze Skin Berserker",
+	        "name": "UR06—Bronze Skin Berserker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR10—Bronze Skin Berserker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR06—Bronze Skin Berserker.png"
 	        }
 	    },
 	    {
@@ -1413,105 +1413,105 @@
 	        }
 	    },
 	    {
-	        "name": "UG01—Dynasty Warding Beast",
+	        "name": "UG09—Dynasty Warding Beast",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment Creature — Spirit Monkey ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG01—Dynasty Warding Beast.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG09—Dynasty Warding Beast.png"
 	        }
 	    },
 	    {
-	        "name": "UG02—Smoke Walker",
+	        "name": "UG01—Smoke Walker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG02—Smoke Walker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG01—Smoke Walker.png"
 	        }
 	    },
 	    {
-	        "name": "UG03—Revitalized Spirit",
+	        "name": "UG13—Revitalized Spirit",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
-	        "type": "Instant",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG03—Revitalized Spirit.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG13—Revitalized Spirit.png"
 	        }
 	    },
 	    {
-	        "name": "UG04—Mountain Top Guide",
+	        "name": "UG05—Mountain Top Guide",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment Creature — Spirit Elk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG04—Mountain Top Guide.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG05—Mountain Top Guide.png"
 	        }
 	    },
 	    {
-	        "name": "UG05—Royal Courtesan",
+	        "name": "UG03—Royal Courtesan",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG05—Royal Courtesan.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG03—Royal Courtesan.png"
 	        }
 	    },
 	    {
-	        "name": "UG06—Beast Palace Calvary",
+	        "name": "UG07—Beast Palace Calvary",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}{G}",
-	        "type": "Creature — Human Beast ",
+	        "type": "Creature — Human Tiger Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG06—Beast Palace Calvary.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG07—Beast Palace Calvary.png"
 	        }
 	    },
 	    {
-	        "name": "UG07—Unyeilding Blademaster",
+	        "name": "UG06—Unyeilding Blademaster",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Swordsman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG07—Unyeilding Blademaster.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG06—Unyeilding Blademaster.png"
 	        },
 	        "printed names": {
-	            "en": "UG07—Unyeilding Blademaster"
+	            "en": "UG06—Unyeilding Blademaster"
 	        },
 	        "back": {
-	            "name": "Scorned yet Unyielding",
+	            "name": "The Acceptance of Futility",
 	            "printed_names": {
-	                "en": "Scorned yet Unyielding"
+	                "en": "The Acceptance of Futility"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Scorned yet Unyielding.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Acceptance of Futility.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
 	    },
 	    {
-	        "name": "UG08—Lord of the Mountain",
+	        "name": "UG10—Lord of the Mountain",
 	        "rarity": "uncommon",
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG08—Lord of the Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG10—Lord of the Mountain.png"
 	        }
 	    },
 	    {
-	        "name": "UG09—Village Head",
+	        "name": "UG02—Village Head",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG09—Village Head.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG02—Village Head.png"
 	        }
 	    },
 	    {
-	        "name": "UG10—Gaurdian Lion",
+	        "name": "UG08—Gaurdian Lion",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG10—Gaurdian Lion.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG08—Gaurdian Lion.png"
 	        }
 	    },
 	    {
@@ -1533,12 +1533,12 @@
 	        }
 	    },
 	    {
-	        "name": "RW02—Merchant's Caravan",
+	        "name": "RW02—Merchants Caravan",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RW02—Merchant's Caravan.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RW02—Merchants Caravan.png"
 	        }
 	    },
 	    {
@@ -1617,12 +1617,12 @@
 	        }
 	    },
 	    {
-	        "name": "UU01—Drag to the Surface",
+	        "name": "UU11—Drag to the Surface",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU01—Drag to the Surface.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU11—Drag to the Surface.png"
 	        }
 	    },
 	    {
@@ -1685,7 +1685,7 @@
 	    {
 	        "name": "RB02—The Black Gate",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{B}{B}",
+	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB02—The Black Gate.png"
@@ -1701,22 +1701,22 @@
 	        }
 	    },
 	    {
-	        "name": "RB04—Spoiled",
+	        "name": "RB04—Siege Captain",
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB04—Spoiled.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB04—Siege Captain.png"
 	        },
 	        "printed names": {
-	            "en": "RB04—Spoiled"
+	            "en": "RB04—Siege Captain"
 	        },
 	        "back": {
-	            "name": "Milk",
+	            "name": "The Compusion to Destroy",
 	            "printed_names": {
-	                "en": "Milk"
+	                "en": "The Compusion to Destroy"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Milk.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Compusion to Destroy.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
@@ -1758,12 +1758,12 @@
 	        }
 	    },
 	    {
-	        "name": "RR02—Jeeves, Blade Dancer",
+	        "name": "RR02—Qiè, Blade Dancer",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Creature — Human Bandit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RR02—Jeeves, Blade Dancer.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RR02—Qiè, Blade Dancer.png"
 	        }
 	    },
 	    {
@@ -1794,12 +1794,12 @@
 	        }
 	    },
 	    {
-	        "name": "UR06—Flametooth Maurader",
+	        "name": "UR01—Flametooth Maurader",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR06—Flametooth Maurader.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR01—Flametooth Maurader.png"
 	        }
 	    },
 	    {
@@ -1947,22 +1947,22 @@
 	        }
 	    },
 	    {
-	        "name": "RG04—Bullish Sailor",
+	        "name": "RG04—Harbor Master",
 	        "mana_cost": "{4}{G}",
-	        "type": "Creature — Human ",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RG04—Bullish Sailor.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RG04—Harbor Master.png"
 	        },
 	        "printed names": {
-	            "en": "RG04—Bullish Sailor"
+	            "en": "RG04—Harbor Master"
 	        },
 	        "back": {
-	            "name": "Blasphemous Deepmouth",
+	            "name": "The Grasp of the Drowned",
 	            "printed_names": {
-	                "en": "Blasphemous Deepmouth"
+	                "en": "The Grasp of the Drowned"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Blasphemous Deepmouth.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Grasp of the Drowned.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
@@ -2024,7 +2024,7 @@
 	    {
 	        "name": "UM01—Court Official",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{B}{G}",
+	        "mana_cost": "{W}{B}{G}",
 	        "type": "Enchantment Creature — Human Advisor ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UM01—Court Official.png"
@@ -2072,7 +2072,7 @@
 	    {
 	        "name": "UM01—Three-Legged Toad",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{U}{R}",
+	        "mana_cost": "{G}{U}{R}",
 	        "type": "Enchantment Creature — Toad Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UM01—Three-Legged Toad.png"
@@ -2117,7 +2117,7 @@
 	    {
 	        "name": "UM02—Imperial Advisor",
 	        "rarity": "uncommon",
-	        "mana_cost": "{W}{B}{G}",
+	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UM02—Imperial Advisor.png"
@@ -2144,7 +2144,7 @@
 	    {
 	        "name": "RM02—Xuè Yuè, the Steel Tempest",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{R}{W}{B}",
+	        "mana_cost": "{2}{R}{W}{B}",
 	        "type": "Legendary Creature — Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RM02—Xuè Yuè, the Steel Tempest.png"
@@ -2183,7 +2183,7 @@
 	    {
 	        "name": "CA01—Family Heirloom",
 	        "rarity": "common",
-	        "mana_cost": "{1}",
+	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CA01—Family Heirloom.png"
@@ -2192,7 +2192,7 @@
 	    {
 	        "name": "CA02—Pit Shackles",
 	        "rarity": "common",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CA02—Pit Shackles.png"
@@ -2210,7 +2210,7 @@
 	    {
 	        "name": "CA04—Gold Plated Axe",
 	        "rarity": "common",
-	        "mana_cost": "{3}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CA04—Gold Plated Axe.png"
@@ -2334,12 +2334,12 @@
 	        }
 	    },
 	    {
-	        "name": "RX06—Boots with the Fur",
+	        "name": "RX06—Thunder Qi Guantlet",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RX06—Boots with the Fur.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RX06—Thunder Qi Guantlet.png"
 	        }
 	    },
 	    {
@@ -2401,29 +2401,29 @@
 	            "en": "SU07—Hunted Fugitive"
 	        },
 	        "back": {
-	            "name": "The Echo in the Cavern",
+	            "name": "The Whisper in the Tunnels",
 	            "printed_names": {
-	                "en": "The Echo in the Cavern"
+	                "en": "The Whisper in the Tunnels"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Echo in the Cavern.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Whisper in the Tunnels.png"
 	            },
 	            "type": "Creature — Demon Cultivator "
 	        }
 	    },
 	    {
-	        "name": "SU10—Mosswalker",
+	        "name": "SU10—Bloodbark",
 	        "rarity": "common",
 	        "mana_cost": "{R}{G}",
-	        "type": "Enchantment Creature — Salamander Spirit ",
+	        "type": "Enchantment Creature — Spirit Treefolk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU10—Mosswalker.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU10—Bloodbark.png"
 	        }
 	    },
 	    {
 	        "name": "SU09—Black Tiger Maurader",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}{W}{B}",
+	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU09—Black Tiger Maurader.png"
@@ -2432,7 +2432,7 @@
 	    {
 	        "name": "SU06—Dynastic Magistrate",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}{B}{G}",
+	        "mana_cost": "{4}{W}{B}{G}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU06—Dynastic Magistrate.png"
@@ -2448,12 +2448,12 @@
 	        }
 	    },
 	    {
-	        "name": "SU02—Conspicuous Mercenary",
+	        "name": "SU02—Legion Reinforcements",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}{W}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU02—Conspicuous Mercenary.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU02—Legion Reinforcements.png"
 	        }
 	    },
 	    {
@@ -2468,7 +2468,7 @@
 	    {
 	        "name": "SU01—Beastly Deciever",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}{U}{R}",
+	        "mana_cost": "{2}{G}{U}{R}",
 	        "type": "Enchantment Creature — Spirit Fox ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU01—Beastly Deciever.png"
@@ -2522,28 +2522,28 @@
 	    {
 	        "name": "SU06—Town Market",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}{W}",
+	        "mana_cost": "{3}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU06—Town Market.png"
 	        }
 	    },
 	    {
-	        "name": "SU09—Pressure",
+	        "name": "SU09—Ultimatum",
 	        "rarity": "common",
-	        "mana_cost": "{B}{R}",
+	        "mana_cost": "{1}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU09—Pressure.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU09—Ultimatum.png"
 	        }
 	    },
 	    {
-	        "name": "SU02—Exiled Expert",
+	        "name": "SU02—Herald of the Colossus",
 	        "rarity": "common",
 	        "mana_cost": "{R}{W}",
-	        "type": "Creature — Human Cultivator Bandit ",
+	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU02—Exiled Expert.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU02—Herald of the Colossus.png"
 	        }
 	    },
 	    {
@@ -2559,7 +2559,7 @@
 	        "name": "SU01—Spectral Panther",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}{R}{W}",
-	        "type": "Creature — Spirit Cultivator ",
+	        "type": "Creature — Human Spirit Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SU01—Spectral Panther.png"
 	        }
@@ -2584,12 +2584,12 @@
 	            "en": "SU03—Borderland Defender"
 	        },
 	        "back": {
-	            "name": "Borderland Corrupter",
+	            "name": "The Regret of the Fallen",
 	            "printed_names": {
-	                "en": "Borderland Corrupter"
+	                "en": "The Regret of the Fallen"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Borderland Corrupter.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Regret of the Fallen.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
@@ -2721,12 +2721,12 @@
 	        }
 	    },
 	    {
-	        "name": "CB06—Sun Moon Banner",
+	        "name": "CB10—Sun Moon Banner",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB06—Sun Moon Banner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB10—Sun Moon Banner.png"
 	        }
 	    },
 	    {
@@ -2763,15 +2763,6 @@
 	        "type": "Token Artifact — Food ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Food.png"
-	        }
-	    },
-	    {
-	        "name": "Copy",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Copy ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Copy.png"
 	        }
 	    },
 	    {
@@ -2818,15 +2809,24 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Vote For Choice #2.png"
 	        }
+	    },
+	    {
+	        "name": "Elephant",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elephant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Elephant.png"
+	        }
 	    }
 	]
 	[RareSlot(2)]
-		10 RU07—Bazaar Peddler
-		10 RB07—Painted Lady
+		10 RU07—Talisman Whale
+		10 RB07—The Painted Lady
 		10 RU03—Twin Form Practicioner
 		10 RR06—Jīngxi the Chained Pheonix
 		10 RW03—Son of the Dragon
-		10 RW02—Merchant's Caravan
+		10 RW02—Merchants Caravan
 		10 RW04—Wéi Guāng, Warrior Prince
 		10 RW05—Call the Anscestors
 		10 RW06—Nascent Realm Master
@@ -2838,10 +2838,10 @@
 		10 RB01—Sun Division Commander
 		10 RB02—The Black Gate
 		10 RB03—Information Network
-		10 RB04—Spoiled
+		10 RB04—Siege Captain
 		10 RB05—Possesion Practicioner
 		10 RR01—Drunken Master
-		10 RR02—Jeeves, Blade Dancer
+		10 RR02—Qiè, Blade Dancer
 		10 RR03—Primordial Qi Release
 		10 RR04—The Vermilion Bird of the South
 		10 RR05—The White Tiger of the West
@@ -2854,7 +2854,7 @@
 		10 RR07—Oogoma, Eater of Souls
 		10 RW07—The Qíjī Physician
 		10 RB06—Necrotic Returner
-		10 RG04—Bullish Sailor
+		10 RG04—Harbor Master
 		10 RG07—Steadfast Guardian
 		10 RM01—Unorthodox Ascendancy
 		10 RM01—Dynastic Ascendancy
@@ -2862,7 +2862,7 @@
 		10 RM01—Spirit Beast Ascendancy
 		10 RM01—Sun Moon Ascendancy
 		10 RX03—QiangLiang ,The Possession Armor
-		10 RX06—Boots with the Fur
+		10 RX06—Thunder Qi Guantlet
 		10 RX07—Ten Thousand Faces
 		10 MX01—Emporer's Garden
 		1 MW02—Dante the Stranger
@@ -2883,71 +2883,71 @@
 		1 MA01—Nebula, the Scale of Truths
 		1 The Great Dao
 	[UncommonSlot(4)]
-		30 UW10—Trigram Palm
-		30 UW13—Seal Release
-		30 UW12—Signal Flare
-		30 UU12—Nascent Dissipator
-		30 UU06—Blade Aura
+		30 UW07—Trigram Palm
+		30 UW013—Seal Release
+		30 UW11—Signal Flare
+		30 UU05—Nascent Dissipator
+		30 UU09—Blade Aura
 		30 UB13—Sun Moon Holy Ritual
 		30 UB12—Harrowing Call
 		30 UR13—Overwhelming Force
-		30 UR12—Lantern Warden
-		30 UG13—Murk Stomper
+		30 UR07—Lantern Warden
+		30 UG04—Murk Stomper
 		30 UG12—Territory Reclamation
-		30 UW01—Avenge the Fallen
-		30 UW02—Secluded Elder
-		30 UW03—Joint Effort
+		30 UW03—Fángyù, Protector of the Wall
+		30 UW05—Secluded Elder
+		30 UW10—Joint Effort
 		30 UW04—Refraction Spear Monk
-		30 UW05—Imperial Decree
-		30 UW06—Alliance Strategist
-		30 UW07—Southland Rider
-		30 UW08—Procession Mask
+		30 UW08—Imperial Decree
+		30 UW02—Alliance Strategist
+		30 UW01—Southland Rider
+		30 UW12—Procession Mask
 		30 UW09—Prison Pagoda
-		30 UW11—Turned Blade
-		30 UU02—GreenRiver Goldfish
-		30 UU03— Clan Tacticians
-		30 UU04—Mirror Formation
-		30 UU05—Demonic Infiltrator
-		30 UU07—Eight Trigrams Practitioner
-		30 UU08—Alliance Skyship
-		30 UU09—Wavereader Pilgrem
-		30 UU10—Buttery
-		30 UU11—Starscale Frillback
-		30 UB01—Pure Yin Constitution
-		30 UB02—Forest of Trophies
-		30 UB03—Servant of the Void
-		30 UB04—Coux
-		30 UB05—Bandit Captain
-		30 UB06—Blackmarket Enforcer
-		30 UB07—Harvesting Operation
-		30 UB08—Madam Shí
-		30 UB09—Give your Offerings
-		30 UB10—Lunar Ascencion Pill
-		30 UB11—Palace Guard
-		30 UR01—Pure Yang Constition
+		30 UW06—Turned Blade
+		30 UU06—Green-River Goldfish
+		30 UU07— Clan Tacticians
+		30 UU12—Paralysis
+		30 UU02—Demonic Infiltrator
+		30 UU08—Eight Trigrams Practitioner
+		30 UU10—Alliance Skyship
+		30 UU01—Wavereader Pilgrem
+		30 UU04—Watchful Elder
+		30 UU03—Starscale Frillback
+		30 UB06—Pure Yin Constitution
+		30 UB11—Forest of Trophies
+		30 UB04—Servant of the Void
+		30 UB08—Coux
+		30 UB02—Bandit Captain
+		30 UB01—Blackmarket Enforcer
+		30 UB07—Foul Resuscitation
+		30 UB03—Madam Shí
+		30 UB09—Feed the Altar
+		30 UB10—Lunar Ascention Pill
+		30 UB05—Palace Guard
+		30 UR10—Pure Yang Constition
 		30 UR02—Blink Toad
-		30 UR03—Hungry Toad
-		30 UR04—Nowhere to Run
+		30 UR04—Hungry Toad
+		30 UR08—Nature's Reciprocity
 		30 UR05—Warforged Raider
-		30 UR07—Gift of the Void Fire
-		30 UR08—Gold Core Flameweaver
+		30 UR12—Gift of the Void Fire
+		30 UR03—Gold Core Flameweaver
 		30 UR09— Meridian Overload
-		30 UR10—Bronze Skin Berserker
+		30 UR06—Bronze Skin Berserker
 		30 UR11—Parry
-		30 UG01—Dynasty Warding Beast
-		30 UG02—Smoke Walker
-		30 UG03—Revitalized Spirit
-		30 UG04—Mountain Top Guide
-		30 UG05—Royal Courtesan
-		30 UG06—Beast Palace Calvary
-		30 UG07—Unyeilding Blademaster
-		30 UG08—Lord of the Mountain
-		30 UG09—Village Head
-		30 UG10—Gaurdian Lion
+		30 UG09—Dynasty Warding Beast
+		30 UG01—Smoke Walker
+		30 UG13—Revitalized Spirit
+		30 UG05—Mountain Top Guide
+		30 UG03—Royal Courtesan
+		30 UG07—Beast Palace Calvary
+		30 UG06—Unyeilding Blademaster
+		30 UG10—Lord of the Mountain
+		30 UG02—Village Head
+		30 UG08—Gaurdian Lion
 		30 UG11—Trader's Cart
-		30 UU01—Drag to the Surface
+		30 UU11—Drag to the Surface
 		30 UU13—Blocked Acupoints
-		30 UR06—Flametooth Maurader
+		30 UR01—Flametooth Maurader
 		30 UM01—Court Official
 		30 UM01—Inner Desciple
 		30 UM01—Sun Moon Squad Captian
@@ -2979,84 +2979,84 @@
 		30 UL05—Imperial Sanctuary
 		30 UL04—Enchanted Grotto
 	[CommonSlot(8)]
-		90 CW01—Inner Balance
-		90 CW02—Sword Technique
-		90 CW04—Orthodox Quickblade
-		90 CR10—Apex Hunter
-		90 CW05—Sect Instructor
+		90 CW11—Inner Balance
+		90 CW16—Sword Technique
+		90 CW09—Orthodox Quickblade
+		90 CR10—Favor of the Beast Palace
+		90 CW01—Sect Instructor
 		90 CW06—Talisman Warder
-		90 CW07—Pilgrimage
-		90 CW08—Wandering Taoist
-		90 CW09—Wandering Ascetic
-		90 CW10—Qingchen Sect Warrior
-		90 CW11—Central Plains Huntsman
-		90 CW12—Pathfinder Monk
-		90 CW13—Sky's Retribution
-		90 CW14—Interloper's Verdict
-		90 CW15—Imperial Warwaker
-		90 CW16—Palace Malitia
-		90 CU01—Qi Refinement
-		90 CU02—Illusion Technique
-		90 CU03—BlueJay Patrol
-		90 CU04—Pocket Dimension
-		90 CU05—Orthodoxy Banner
-		90 CU07—Spiritual Absorption
-		90 CU08—Illusionist Practicioner
-		90 CU10—Premonition
-		90 CU11—Hooktongue Toad
-		90 CU12—Crane School Disciple
-		90 CU13—Red Light Courtesan
-		90 CU15—Blue Mountain Crane
-		90 CU16—Temple's Procession
-		90 CU17—South Bound Swordsman
-		90 CU06—Beast of Burden
-		90 CB01—Qi Deviation
-		90 CB02—Hidden Weapons Technique
-		90 CB03—Dantian Destuction
+		90 CW13—Pilgrimage
+		90 CW08—Evasive Exile
+		90 CW07—Wandering Ascetic
+		90 CW02—Sect Warrior
+		90 CW03—Central Plains Huntsman
+		90 CW04—Pathfinder Monk
+		90 CW15—Sky's Retribution
+		90 CW12—Interloper's Verdict
+		90 CW10—Imperial Warwaker
+		90 CW05—Palace Malitia
+		90 CU11—Qi Refinement
+		90 CU16—Illusion Technique
+		90 CU01—Bluejay Patrol
+		90 CU12—Pocket Dimension
+		90 CU14—Orthodoxy Banner
+		90 CU13—Spiritual Absorption
+		90 CU10—Illusionist Practicioner
+		90 CU15—Premonition
+		90 CU04—Hooktongue Toad
+		90 CU08—Crane School Disciple
+		90 CU06—Red Light Courtesan
+		90 CU05—Blue Mountain Crane
+		90 CU03—Temple Procession
+		90 CU07—South Bound Swordsman
+		90 CU09—Beast of Burden
+		90 CB09—Qi Deviation
+		90 CB11—Hidden Weapons Technique
+		90 CB16—Dantian Destuction
 		90 CB04—Cult Initiate
-		90 CB07—Stockpile
-		90 CB08—Depth Exploration
-		90 CB09—Vengeful Wanderer
-		90 CB10—Veteran Mercenary
-		90 CB11—Sun Moon Infiltrator
-		90 CB13—Unorthodox Infiltrator
-		90 CB14—Injured Assailant
+		90 CB13—Stockpile
+		90 CB14—Depth Exploration
+		90 CB06—Reckless Challenger
+		90 CB03—Veteran Mercenary
+		90 CB02—Sun Moon Infiltrator
+		90 CB01—Unorthodox Infiltrator
+		90 CB07—Injured Assailant
 		90 CB15—Deal Behind Closed Doors
-		90 CB16—Highwall Patrol
-		90 CB17—Demonic Convulsion
-		90 CR01—Clan Pillaging
-		90 CR02—Sabre Technique
-		90 CR03—Thunder Tribulation
-		90 CR04—Mercenary Banner
-		90 CR05—Southland Redwing
-		90 CR06—Green Mountain Pillager
+		90 CB08—Highwall Patrol
+		90 CB12—Demonic Convulsion
+		90 CR14—Clan Pillaging
+		90 CR13—Sabre Technique
+		90 CR09—Thunder Tribulation
+		90 CR11—Mercenary Banner
+		90 CR01—Southland Redwing
+		90 CR07—Green Mountain Pillager
 		90 CR07—Mountain Bandits
-		90 CR08—Townedge Toad
-		90 CR09—Firefont Bellringer
-		90 CR11—Horned Tiger
-		90 CR13—Firepalm Vindicator
-		90 CR14—Westland Breserker
+		90 CR04—Coal Scale Coiler
+		90 CR05—Firefont Bellringer
+		90 CR03—Horned Tiger
+		90 CR02—Firepalm Vindicator
+		90 CR06—Westland Berserker
 		90 CR15—Clear a Path
 		90 CR16—Void Firebolt
 		90 CR17—Sweeping Reversal
-		90 CG01—Thousand-Year Ginseng
-		90 CG02—Fist Technique
-		90 CG03—Escort Convoy
-		90 CG04—Ancient Toadling
-		90 CG05—Disperse Evil
-		90 CG06—Westland Escort
-		90 CG07—Dumb
-		90 CG08—Naval Commander
-		90 CG09—Hoarding Toad
-		90 CG10—Palace Provisioner
-		90 CG11—Grizzly Woodcutter
+		90 CG16—Thousand-Year Ginseng
+		90 CG11—Fist Technique
+		90 CG02—Escort Convoy
+		90 CG07—Ancient Toadling
+		90 CG13—Disperse Evil
+		90 CG03—Westland Escort
+		90 CG06—Shrouded Figure
+		90 CG10—Decorated Commander
+		90 CG01—Hoarding Toad
+		90 CG04—Palace Provisioner
+		90 CG08—Grizzly Woodcutter
 		90 CG12—Outnumbered, Unmatched
-		90 CG13—Fanged Greed Beast
+		90 CG05—Fanged Greed Beast
 		90 CG14—Clan Dispute
 		90 CG15—Beast Palace Banner
-		90 CG17—Iron Bone Practicioner
-		90 CW03—Imperial Banner
-		90 CU09—Tide Lurker
+		90 CG09—Iron Bone Practicioner
+		90 CW14—Imperial Banner
+		90 CU02—Tide Lurker
 		90 CB05—Village Prefects
 		90 CA01—Family Heirloom
 		90 CA02—Pit Shackles
@@ -3070,17 +3070,17 @@
 		90 CL05—Mountain Encampment
 		90 SU08—Butterfly Bladesman
 		90 SU07—Hunted Fugitive
-		90 SU10—Mosswalker
-		90 SU02—Conspicuous Mercenary
+		90 SU10—Bloodbark
+		90 SU02—Legion Reinforcements
 		90 SU01—Beastly Deciever
 		90 SU05—Hatchery Experiment
 		90 SU06—Town Market
-		90 SU09—Pressure
-		90 SU02—Exiled Expert
+		90 SU09—Ultimatum
+		90 SU02—Herald of the Colossus
 		90 SU01—Spectral Panther
 		90 SU04—Sound the Drums
 		90 SU03—Borderland Defender
-		90 CB06—Sun Moon Banner
+		90 CB10—Sun Moon Banner
 	[BasicSlot(1)]
 		300 Forest_TZI;
 		300 Mountain_TZI;
