@@ -504,7 +504,7 @@
 	        "name": "CB03—Veteran Mercenary",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Human  Mercenary ",
+	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB03—Veteran Mercenary.png"
 	        }
@@ -597,7 +597,7 @@
 	        "name": "CR14—Clan Pillaging",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CR14—Clan Pillaging.png"
 	        }
@@ -1152,14 +1152,14 @@
 	        }
 	    },
 	    {
-	        "name": "UU01—Wavereader Pilgrem",
+	        "name": "UU01—Wavereader Pilgrim",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU01—Wavereader Pilgrem.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU01—Wavereader Pilgrim.png"
 	        },
 	        "printed names": {
-	            "en": "UU01—Wavereader Pilgrem"
+	            "en": "UU01—Wavereader Pilgrim"
 	        },
 	        "back": {
 	            "name": "The Reflection in the Water",
@@ -1725,7 +1725,7 @@
 	        "name": "RB05—Possesion Practicioner",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{B}{B}",
-	        "type": "Creature — Shapeshifter  Cultivator ",
+	        "type": "Creature — Shapeshifter Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB05—Possesion Practicioner.png"
 	        }
@@ -1868,7 +1868,7 @@
 	    {
 	        "name": "MG02—TaoWu, the Third Peril",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{G}{G}{G}",
+	        "mana_cost": "{4}{G}{G}",
 	        "type": "Legendary Creature — Demon Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MG02—TaoWu, the Third Peril.png"
@@ -2336,7 +2336,7 @@
 	    {
 	        "name": "RX06—Thunder Qi Guantlet",
 	        "rarity": "rare",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RX06—Thunder Qi Guantlet.png"
@@ -2910,7 +2910,7 @@
 		30 UU02—Demonic Infiltrator
 		30 UU08—Eight Trigrams Practitioner
 		30 UU10—Alliance Skyship
-		30 UU01—Wavereader Pilgrem
+		30 UU01—Wavereader Pilgrim
 		30 UU04—Watchful Elder
 		30 UU03—Starscale Frillback
 		30 UB06—Pure Yin Constitution
