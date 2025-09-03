@@ -1310,7 +1310,8 @@ Whenever enchanted creature attacks, put a +1/+1 counter on it.
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature dies, populate. (Create a token that’s a copy of a creature token you control.)</text>
+      <text>1G, Sacrifice this creature: Create a 1/1 green toad creature token.
+When this creature dies, populate. (Create a token that’s a copy of a creature token you control.)</text>
     </card>
     <card>
       <name>CG07—Arboreal Fowl</name>
@@ -2260,7 +2261,7 @@ When Jīngxi breaks through, return up to one target instant or sorcery card wit
 Breakthrough 3</text>
     </card>
     <card>
-      <name>UR12—Gift of the Void Fire</name>
+      <name>UR12—Ethereal Affinity</name>
       <set rarity="uncommon">TZI</set>
       <prop>
         <colors>R</colors>
@@ -2698,8 +2699,8 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
       <name>JR02—Luóshuān, Son of Thunder</name>
       <set rarity="rare">TZI</set>
       <prop>
-        <colors>UR</colors>
-        <manacost>2UR</manacost>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Cultivator </type>
         <maintype>Creature</maintype>
@@ -2911,9 +2912,8 @@ Your opponents can’t gain life.</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control breaks through, you may switch that creatures power and toughness with another target creature’s power and toughness until end of turn.
-{T}: This creature and another target creature each deal damage equal to their power to themselves.
-Breakthrough 2</text>
+      <text>Modified creature you control can block while tapped. (Equipment, Auras you control, and counters are modifications.)
+1U/R, {T}, Tap another untapped creature you control: Switch this creatures power and toughness with another target creature you control until end of turn.</text>
     </card>
     <card>
       <name>MR03—Qiè, the Dancing Blade</name>
@@ -3026,18 +3026,18 @@ Other Aura enchantments you control have totem armor. (If enchanted permanent wo
       <name>TR04—The Azure Dragon of the East</name>
       <set rarity="rare">TZI</set>
       <prop>
-        <colors>UG</colors>
-        <manacost>2GU</manacost>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
         <cmc>4</cmc>
         <type>Legendary Enchantment Creature - Spirit Dragon </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bestow 3GU
+      <text>Bestow 1UR
 Flying
-Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on each enchanted creature you control.
-When this permanent enters, choose up to three target creatures. Create a Predator Role token attached to the first creature, a Prey Role token attached to the second creature, and a Scavenger Role token attached to the third creature.</text>
+Whenever a creature you control becomes enchanted, create a Predator or a Prey Role token that enters attached to target creature. This ability triggers only once each turn.
+2U/R, Sacrifice an enchantment: Deal 2 damage to target opponent.</text>
     </card>
     <card>
       <name>AR05—Imperial General</name>
@@ -3151,16 +3151,16 @@ Whenever another creature dies, return it to the battlefield tapped under a rand
       <set rarity="mythic">TZI</set>
       <prop>
         <colors>UR</colors>
-        <manacost>2UR</manacost>
-        <cmc>4</cmc>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, decree— (Each player secretly votes for a mode, then choose each mode with a vote.)
+      <text>At the beginning of combat on your turn, decree— (Each player secretly votes for a mode, then choose each mode with a vote.)
 • Proliferate.
 • Tap a creature.
-Whenever one or more qi counters are removed from one or more permanents you control, draw a card.</text>
+Whenever a creature you control breaks through, draw a card.</text>
     </card>
     <card>
       <name>JM02—Léibào, Orthodox Prodigy</name>
@@ -3679,13 +3679,13 @@ Activated abilities of permanents you control cost {1} less to activate. This ef
       <set rarity="common">TZI</set>
       <prop>
         <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+1
+      <text>Equipped creature gets +2/+0
 Whenever a creature you control attacks, if it entered this turn you may attach this equipment to it.
 Equip {3}</text>
     </card>
@@ -4055,17 +4055,19 @@ Blitz 2BR (If you cast this spell for its blitz cost, it gains haste and “When
 • Populate. (Create a token that’s a copy of a creature token you control.)</text>
     </card>
     <card>
-      <name>OP01—The Great Dao</name>
-      <set rarity="mythic">TZI</set>
+      <name>MR04—Open the Third Eye</name>
+      <set rarity="rare">TZI</set>
       <prop>
-        <colors>WUBRG</colors>
-        <manacost>WUBRG</manacost>
-        <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Your life total becomes equal your starting life total. Shuffle all hands, graveyards, and permanents into their owners library. Then each player draws a card.</text>
+      <text>Decree— (Each player secretly votes for a mode, then choose each mode with a vote.)
+• Exile any number of creatures you control then return them to the battlefield. Creatures you control have haste until end of turn.
+• Exile a creature an opponent controls.</text>
     </card>
     <card>
       <name>CC05—Flanking Brigade</name>
@@ -4437,17 +4439,20 @@ Breakthrough 3 (Whenever this creature becomes untapped, put a qi counter on it,
 Whenever you discard a card, you may sacrifice this artifact. If you do, return the card discarded this way to your hand.</text>
     </card>
     <card>
-      <name>TU06—</name>
+      <name>TU06—Mesa Rummager</name>
       <set rarity="uncommon">TZI</set>
       <prop>
         <colors>UR</colors>
         <manacost>UR</manacost>
         <cmc>2</cmc>
-        <type></type>
-        <maintype></maintype>
+        <type>Enchantment Creature - Spirit Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text></text>
+      <tablerow>2</tablerow>
+      <text>Bestow {U/R} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Flying
+Enchanted creature has flying and gains “{T}: Draw card then discard a card.”</text>
     </card>
 
     <!-->Tokens</-->

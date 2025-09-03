@@ -1368,12 +1368,12 @@
 	        }
 	    },
 	    {
-	        "name": "UR12—Gift of the Void Fire",
+	        "name": "UR12—Ethereal Affinity",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR12—Gift of the Void Fire.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR12—Ethereal Affinity.png"
 	        }
 	    },
 	    {
@@ -1628,7 +1628,7 @@
 	    {
 	        "name": "JR02—Luóshuān, Son of Thunder",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{R}",
+	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Human Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JR02—Luóshuān, Son of Thunder.png"
@@ -1823,7 +1823,7 @@
 	    {
 	        "name": "TR04—The Azure Dragon of the East",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{U}",
+	        "mana_cost": "{2}{U}{R}",
 	        "type": "Legendary Enchantment Creature — Spirit Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TR04—The Azure Dragon of the East.png"
@@ -1895,7 +1895,7 @@
 	    {
 	        "name": "JM03—Secret Technique",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{R}",
+	        "mana_cost": "{3}{U}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JM03—Secret Technique.png"
@@ -2210,7 +2210,7 @@
 	    {
 	        "name": "CA04—Gold Plated Axe",
 	        "rarity": "common",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CA04—Gold Plated Axe.png"
@@ -2439,12 +2439,12 @@
 	        }
 	    },
 	    {
-	        "name": "OP01—The Great Dao",
-	        "rarity": "mythic",
-	        "mana_cost": "{W}{U}{B}{R}{G}",
-	        "type": "Sorcery",
+	        "name": "MR04—Open the Third Eye",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/OP01—The Great Dao.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MR04—Open the Third Eye.png"
 	        }
 	    },
 	    {
@@ -2808,12 +2808,12 @@
 	        }
 	    },
 	    {
-	        "name": "TU06—",
+	        "name": "TU06—Mesa Rummager",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}{R}",
-	        "type": "",
+	        "type": "Enchantment Creature — Spirit Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TU06—.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TU06—Mesa Rummager.png"
 	        }
 	    }
 	]
@@ -2861,6 +2861,7 @@
 		8 RA02—Thunder Qi Guantlets
 		8 RA03—Ten Thousand Faces
 		8 ML01—Emporer's Garden
+		8 MR04—Open the Third Eye
 		4 JM04—Acala the Stranger
 		4 AM02—Empress Biān
 		4 SM02—Tāotiè, the First Peril
@@ -2877,7 +2878,6 @@
 		4 JM01—Báihè, the Unifier
 		4 SM01—Hēi Tàiyáng, the Heavenly Demon
 		4 MA01—Nebula, the Scale of Truths
-		4 OP01—The Great Dao
 	[UncommonSlot(4)]
 		25 UW07—Trigram Palm
 		25 UW013—Seal Release
@@ -2924,7 +2924,7 @@
 		25 TU06—Pyrophant
 		25 UR08—Nature's Reciprocity
 		25 MU05—Warforged Raider
-		25 UR12—Gift of the Void Fire
+		25 UR12—Ethereal Affinity
 		25 UR03—Alliance Blademaster
 		25 UR09— Meridian Overload
 		25 MU04—Bronze Skin Berserker
@@ -2975,7 +2975,7 @@
 		25 UL03—Demons Den
 		25 UL05—Imperial Sanctuary
 		25 UL04—Enchanted Grotto
-		25 TU06—
+		25 TU06—Mesa Rummager
 	[CommonSlot(8)]
 		70 CW11—Inner Balance
 		70 CW16—Sword Technique
