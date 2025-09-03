@@ -1542,12 +1542,12 @@
 	        }
 	    },
 	    {
-	        "name": "MW02—Acala the Stranger",
+	        "name": "JM04—Acala the Stranger",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{2}{R}{W}",
 	        "type": "Planeswalker — Acala ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MW02—Acala the Stranger.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JM04—Acala the Stranger.png"
 	        }
 	    },
 	    {
@@ -1683,12 +1683,12 @@
 	        }
 	    },
 	    {
-	        "name": "RB02—The Black Gate",
+	        "name": "AR06—The Black Gate",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{B}{B}",
+	        "mana_cost": "{4}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB02—The Black Gate.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/AR06—The Black Gate.png"
 	        }
 	    },
 	    {
@@ -1740,21 +1740,21 @@
 	        }
 	    },
 	    {
-	        "name": "MB01—QiongQi, the Fourth Peril",
+	        "name": "AM03—QiongQi, the Fourth Peril",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}{B}{B}",
+	        "mana_cost": "{4}{W}{B}",
 	        "type": "Legendary Creature — Demon Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MB01—QiongQi, the Fourth Peril.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/AM03—QiongQi, the Fourth Peril.png"
 	        }
 	    },
 	    {
-	        "name": "JR05—Drunken Master",
-	        "rarity": "rare",
+	        "name": "JU07—Drunken Master",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JR05—Drunken Master.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JU07—Drunken Master.png"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	    {
 	        "name": "TR04—The Azure Dragon of the East",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{G}",
+	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Enchantment Creature — Spirit Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TR04—The Azure Dragon of the East.png"
@@ -1832,7 +1832,7 @@
 	    {
 	        "name": "AR05—Imperial General",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B}{G}",
+	        "mana_cost": "{3}{W}{B}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/AR05—Imperial General.png"
@@ -1886,19 +1886,19 @@
 	    {
 	        "name": "MG01—HunDun, the Second Peril",
 	        "rarity": "mythic",
-	        "mana_cost": "{5}{G}{G}",
+	        "mana_cost": "{5}{B}{G}",
 	        "type": "Legendary Creature — Demon Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MG01—HunDun, the Second Peril.png"
 	        }
 	    },
 	    {
-	        "name": "MU01—Secret Technique",
+	        "name": "JM03—Secret Technique",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{2}{U}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MU01—Secret Technique.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JM03—Secret Technique.png"
 	        }
 	    },
 	    {
@@ -1929,12 +1929,12 @@
 	        }
 	    },
 	    {
-	        "name": "MR01—Bēishāng the Nine-Tailed Fox",
+	        "name": "TM03—Bēishāng the Nine-Tailed Fox",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{R}{R}",
+	        "mana_cost": "{1}{R}{G}",
 	        "type": "Legendary Enchantment Creature — Spirit Fox ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MR01—Bēishāng the Nine-Tailed Fox.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TM03—Bēishāng the Nine-Tailed Fox.png"
 	        }
 	    },
 	    {
@@ -2450,7 +2450,7 @@
 	    {
 	        "name": "CC05—Flanking Brigade",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}{B}",
+	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CC05—Flanking Brigade.png"
@@ -2466,12 +2466,12 @@
 	        }
 	    },
 	    {
-	        "name": "TC01—Beastly Deciever",
+	        "name": "WC02—Beastly Deciever",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}{U}{R}",
 	        "type": "Enchantment Creature — Spirit Fox ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TC01—Beastly Deciever.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/WC02—Beastly Deciever.png"
 	        }
 	    },
 	    {
@@ -2502,12 +2502,12 @@
 	        }
 	    },
 	    {
-	        "name": "SC02—Hatchery Experiment",
+	        "name": "WC03—Hatchery Experiment",
 	        "rarity": "common",
 	        "mana_cost": "{B}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SC02—Hatchery Experiment.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/WC03—Hatchery Experiment.png"
 	        }
 	    },
 	    {
@@ -2529,21 +2529,12 @@
 	        }
 	    },
 	    {
-	        "name": "MC01—Ultimatum",
+	        "name": "WC01—Ultimatum",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}{R}",
+	        "mana_cost": "{R}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/MC01—Ultimatum.png"
-	        }
-	    },
-	    {
-	        "name": "CC01—Seeker of the Light",
-	        "rarity": "common",
-	        "mana_cost": "{R}{W}",
-	        "type": "Creature — Human Cultivator ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CC01—Seeker of the Light.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/WC01—Ultimatum.png"
 	        }
 	    },
 	    {
@@ -2556,42 +2547,21 @@
 	        }
 	    },
 	    {
-	        "name": "JC01—Spectral Panther",
+	        "name": "WC04—Spectral Panther",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Creature — Human Spirit Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JC01—Spectral Panther.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/WC04—Spectral Panther.png"
 	        }
 	    },
 	    {
-	        "name": "AC01—Sound the Drums",
+	        "name": "WC05—Sound the Drums",
 	        "rarity": "common",
 	        "mana_cost": "{W}{B}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/AC01—Sound the Drums.png"
-	        }
-	    },
-	    {
-	        "name": "SC01—Borderland Defender",
-	        "mana_cost": "{1}{B}{G}",
-	        "type": "Creature — Human Warrior ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SC01—Borderland Defender.png"
-	        },
-	        "printed names": {
-	            "en": "SC01—Borderland Defender"
-	        },
-	        "back": {
-	            "name": "The Regret of the Fallen",
-	            "printed_names": {
-	                "en": "The Regret of the Fallen"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/The Regret of the Fallen.png"
-	            },
-	            "type": "Creature — Demon "
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/WC05—Sound the Drums.png"
 	        }
 	    },
 	    {
@@ -2827,269 +2797,286 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Demon.png"
 	        }
+	    },
+	    {
+	        "name": "TIANZI DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TIANZI DRAFT ARCHETYPES.png"
+	        }
+	    },
+	    {
+	        "name": "TU06—",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/TU06—.png"
+	        }
 	    }
 	]
 	[RareSlot(2)]
-		10 TR03—Talisman Whale
-		10 SR04—The Painted Lady
-		10 AR04—Fángyù, Protector of the Wall
-		10 JR04—Twin Form Practicioner
-		10 RR06—Jīngxi the Chained Pheonix
-		10 JR06—Son of the Dragon
-		10 AR02—Wéi Guāng, Warrior Prince
-		10 RW05—Call the Anscestors
-		10 JR03—Nascent Realm Master
-		10 RU01—Alliance Grandmaster
-		10 RU02—Moon Division Commander
-		10 JR02—Luóshuān, Son of Thunder
-		10 SR05—Crystal Amulet
-		10 RU06—Quicksilver Tortoise
-		10 RB01—Sun Division Commander
-		10 RB02—The Black Gate
-		10 RB03—Information Network
-		10 SR03—Siege Captain
-		10 MR02—Possesion Practicioner
-		10 JR05—Drunken Master
-		10 MR03—Qiè, the Dancing Blade
-		10 RR03—Primordial Qi Release
-		10 TR05—The Vermilion Bird of the South
-		10 RR05—The White Tiger of the West
-		10 RG06—Imperial Barracks
-		10 RG01—The Black Tortoise of the North
-		10 TR04—The Azure Dragon of the East
-		10 AR05—Imperial General
-		10 RW01—Sunblast Edict
-		10 RG05—Princess Jīhuì the Spectral
-		10 TR02—Oogoma, Eater of Souls
-		10 RW07—The Qíjī Physician
-		10 RB06—Necrotic Returner
-		10 SR02—Harbor Master
-		10 AR03—Steadfast Guardian
-		10 MR01—Unorthodox Ascendancy
-		10 AR01—Dynastic Ascendancy
-		10 JR01—Orthodox Ascendancy
-		10 TR01—Spirit Beast Ascendancy
-		10 SR01—Sun Moon Ascendancy
-		10 RA01—QiangLiang ,The Possession Armor
-		10 RA02—Thunder Qi Guantlets
-		10 RA03—Ten Thousand Faces
-		10 ML01—Emporer's Garden
-		1 MW02—Acala the Stranger
-		1 AM02—Empress Biān
-		1 SM02—Tāotiè, the First Peril
-		1 MB01—QiongQi, the Fourth Peril
-		1 TM02—TaoWu, the Third Peril
-		1 MG01—HunDun, the Second Peril
-		1 MU01—Secret Technique
-		1 JM02—Léibào, Orthodox Prodigy
-		1 MR01—Bēishāng the Nine-Tailed Fox
-		1 MM02—Eye of the Void Colossus
-		1 AM01—Yùlóng, Eternal Emporer
-		1 TM01—Hòuwèi, the Spirit King
-		1 MM01—Xuè Yuè, the Steel Tempest
-		1 JM01—Báihè, the Unifier
-		1 SM01—Hēi Tàiyáng, the Heavenly Demon
-		1 MA01—Nebula, the Scale of Truths
-		1 OP01—The Great Dao
+		8 TR03—Talisman Whale
+		8 SR04—The Painted Lady
+		8 AR04—Fángyù, Protector of the Wall
+		8 JR04—Twin Form Practicioner
+		8 RR06—Jīngxi the Chained Pheonix
+		8 JR06—Son of the Dragon
+		8 AR02—Wéi Guāng, Warrior Prince
+		8 RW05—Call the Anscestors
+		8 JR03—Nascent Realm Master
+		8 RU01—Alliance Grandmaster
+		8 RU02—Moon Division Commander
+		8 JR02—Luóshuān, Son of Thunder
+		8 SR05—Crystal Amulet
+		8 RU06—Quicksilver Tortoise
+		8 RB01—Sun Division Commander
+		8 AR06—The Black Gate
+		8 RB03—Information Network
+		8 SR03—Siege Captain
+		8 MR02—Possesion Practicioner
+		8 MR03—Qiè, the Dancing Blade
+		8 RR03—Primordial Qi Release
+		8 TR05—The Vermilion Bird of the South
+		8 RR05—The White Tiger of the West
+		8 RG06—Imperial Barracks
+		8 RG01—The Black Tortoise of the North
+		8 TR04—The Azure Dragon of the East
+		8 AR05—Imperial General
+		8 RW01—Sunblast Edict
+		8 RG05—Princess Jīhuì the Spectral
+		8 TR02—Oogoma, Eater of Souls
+		8 RW07—The Qíjī Physician
+		8 RB06—Necrotic Returner
+		8 SR02—Harbor Master
+		8 AR03—Steadfast Guardian
+		8 MR01—Unorthodox Ascendancy
+		8 AR01—Dynastic Ascendancy
+		8 JR01—Orthodox Ascendancy
+		8 TR01—Spirit Beast Ascendancy
+		8 SR01—Sun Moon Ascendancy
+		8 RA01—QiangLiang ,The Possession Armor
+		8 RA02—Thunder Qi Guantlets
+		8 RA03—Ten Thousand Faces
+		8 ML01—Emporer's Garden
+		4 JM04—Acala the Stranger
+		4 AM02—Empress Biān
+		4 SM02—Tāotiè, the First Peril
+		4 AM03—QiongQi, the Fourth Peril
+		4 TM02—TaoWu, the Third Peril
+		4 MG01—HunDun, the Second Peril
+		4 JM03—Secret Technique
+		4 JM02—Léibào, Orthodox Prodigy
+		4 TM03—Bēishāng the Nine-Tailed Fox
+		4 MM02—Eye of the Void Colossus
+		4 AM01—Yùlóng, Eternal Emporer
+		4 TM01—Hòuwèi, the Spirit King
+		4 MM01—Xuè Yuè, the Steel Tempest
+		4 JM01—Báihè, the Unifier
+		4 SM01—Hēi Tàiyáng, the Heavenly Demon
+		4 MA01—Nebula, the Scale of Truths
+		4 OP01—The Great Dao
 	[UncommonSlot(4)]
-		30 UW07—Trigram Palm
-		30 UW013—Seal Release
-		30 UW11—Signal Flare
-		30 UU05—Nascent Dissipator
-		30 UU09—Blade Aura
-		30 UU08—Blue Mountain Crane
-		30 UB13—Sun Moon Holy Ritual
-		30 UB09—Possession Module
-		30 SU05—Harrowing Call
-		30 UR13—Overwhelming Force
-		30 UR07—Lantern Warden
-		30 UG04—Murk Stomper
-		30 UG12—Territory Reclamation
-		30 JU05—Secluded Elder
-		30 UW10—Joint Effort
-		30 JU06—Refraction Monk
-		30 UW08—Imperial Decree
-		30 JU04—Alliance Strategist
-		30 UW01—Sierra Riders
-		30 UW12—Procession Mask
-		30 UW09—Prison Pagoda
-		30 UW06—Turned Blade
-		30 UR02—Titanic Goldfish
-		30 UU07— Alliance Instuctor
-		30 UU12—Paralysis
-		30 UU02—Demonic Infiltrator
-		30 UU10—Alliance Skyship
-		30 SU04—Wavereader Pilgrim
-		30 UU04—Aspiring Ascendant
-		30 TU05—Tendrilled Weasel
-		30 UB06—Pure Yin Constitution
-		30 UB11—Forest of Trophies
-		30 MU06—Ceaseless Cavalry
-		30 UB08—Coux
-		30 UB02—Bandit Captain
-		30 UB01—Blackmarket Enforcer
-		30 UB07—Foul Resuscitation
-		30 UB05—Madam Shí
-		30 UB10—Lunar Ascention Pill
-		30 AU04—Imperial Annexor
-		30 UR10—Pure Yang Constition
-		30 UR02—Blink Toad
-		30 TU06—Pyrophant
-		30 UR08—Nature's Reciprocity
-		30 MU05—Warforged Raider
-		30 UR12—Gift of the Void Fire
-		30 UR03—Alliance Blademaster
-		30 UR09— Meridian Overload
-		30 MU04—Bronze Skin Berserker
-		30 UR11—Parry
-		30 UG09—Mossback
-		30 UG01—Beast Palace Tamer
-		30 UG13—Revitalized Spirit
-		30 UG05—Mountain Top Guide
-		30 UG03—Royal Courtesan
-		30 TU04—Beast Palace Calvary
-		30 UG06—Unyeilding Blademaster
-		30 UG10—Lord of the Mountain
-		30 AU05—Village Head
-		30 UG08—Gaurdian Lion
-		30 AU06—Trader's Cart
-		30 UW03—Warfront Tactician
-		30 UU11—Drag to the Surface
-		30 UU13—Blocked Acupoints
-		30 MU07—Flametooth Maurader
-		30 AU01—Court Official
-		30 JU02—Inner Desciple
-		30 SU02—Sun Moon Squad Captian
-		30 MU02—Gold Core Ronin
-		30 TU02—Three-Legged Toad
-		30 JU03—Sky Pavilion Disciple
-		30 SU03—Thousand-Soul Banner
-		30 MU01—Supply Route Raiders
-		30 TU03—Ambush Toad
-		30 AU03—Imperial Advisor
-		30 UA01—Alliance Vault
-		30 UA02—Transformation Vault
-		30 UA03—Undercity Vault
-		30 UA04—Ethereal Vault
-		30 UA05—Imperial Vault
-		30 UA06—Coins for the Dead
-		30 MU03—Black Tiger Maurader
-		30 AU02—Dynastic Magistrate
-		30 CU02—Yin Qi Demon Beast
-		30 CU03—Imperial Mercenary
-		30 CU01—Corrupt Official
-		30 JU01—Tranquil Wanderer
-		30 TU01—Toadally Broken
-		30 SU01—Forbidden Knowledge
-		30 UL01—Skybound Pagoda
-		30 UL06—Shifting Vista
-		30 UL02—Chained Fortress
-		30 UL03—Demons Den
-		30 UL05—Imperial Sanctuary
-		30 UL04—Enchanted Grotto
+		25 UW07—Trigram Palm
+		25 UW013—Seal Release
+		25 UW11—Signal Flare
+		25 UU05—Nascent Dissipator
+		25 UU09—Blade Aura
+		25 UU08—Blue Mountain Crane
+		25 UB13—Sun Moon Holy Ritual
+		25 UB09—Possession Module
+		25 SU05—Harrowing Call
+		25 UR13—Overwhelming Force
+		25 UR07—Lantern Warden
+		25 UG04—Murk Stomper
+		25 UG12—Territory Reclamation
+		25 JU05—Secluded Elder
+		25 UW10—Joint Effort
+		25 JU06—Refraction Monk
+		25 UW08—Imperial Decree
+		25 JU04—Alliance Strategist
+		25 UW01—Sierra Riders
+		25 UW12—Procession Mask
+		25 UW09—Prison Pagoda
+		25 UW06—Turned Blade
+		25 UR02—Titanic Goldfish
+		25 UU07— Alliance Instuctor
+		25 UU12—Paralysis
+		25 UU02—Demonic Infiltrator
+		25 UU10—Alliance Skyship
+		25 SU04—Wavereader Pilgrim
+		25 UU04—Aspiring Ascendant
+		25 TU05—Tendrilled Weasel
+		25 UB06—Pure Yin Constitution
+		25 UB11—Forest of Trophies
+		25 MU06—Ceaseless Cavalry
+		25 UB08—Coux
+		25 UB02—Bandit Captain
+		25 UB01—Blackmarket Enforcer
+		25 UB07—Foul Resuscitation
+		25 UB05—Madam Shí
+		25 UB10—Lunar Ascention Pill
+		25 AU04—Imperial Annexor
+		25 UR10—Pure Yang Constition
+		25 UR02—Blink Toad
+		25 TU06—Pyrophant
+		25 UR08—Nature's Reciprocity
+		25 MU05—Warforged Raider
+		25 UR12—Gift of the Void Fire
+		25 UR03—Alliance Blademaster
+		25 UR09— Meridian Overload
+		25 MU04—Bronze Skin Berserker
+		25 UR11—Parry
+		25 UG09—Mossback
+		25 UG01—Beast Palace Tamer
+		25 UG13—Revitalized Spirit
+		25 UG05—Mountain Top Guide
+		25 UG03—Royal Courtesan
+		25 TU04—Beast Palace Calvary
+		25 UG06—Unyeilding Blademaster
+		25 UG10—Lord of the Mountain
+		25 AU05—Village Head
+		25 UG08—Gaurdian Lion
+		25 AU06—Trader's Cart
+		25 UW03—Warfront Tactician
+		25 UU11—Drag to the Surface
+		25 UU13—Blocked Acupoints
+		25 JU07—Drunken Master
+		25 MU07—Flametooth Maurader
+		25 AU01—Court Official
+		25 JU02—Inner Desciple
+		25 SU02—Sun Moon Squad Captian
+		25 MU02—Gold Core Ronin
+		25 TU02—Three-Legged Toad
+		25 JU03—Sky Pavilion Disciple
+		25 SU03—Thousand-Soul Banner
+		25 MU01—Supply Route Raiders
+		25 TU03—Ambush Toad
+		25 AU03—Imperial Advisor
+		25 UA01—Alliance Vault
+		25 UA02—Transformation Vault
+		25 UA03—Undercity Vault
+		25 UA04—Ethereal Vault
+		25 UA05—Imperial Vault
+		25 UA06—Coins for the Dead
+		25 MU03—Black Tiger Maurader
+		25 AU02—Dynastic Magistrate
+		25 CU02—Yin Qi Demon Beast
+		25 CU03—Imperial Mercenary
+		25 CU01—Corrupt Official
+		25 JU01—Tranquil Wanderer
+		25 TU01—Toadally Broken
+		25 SU01—Forbidden Knowledge
+		25 UL01—Skybound Pagoda
+		25 UL06—Shifting Vista
+		25 UL02—Chained Fortress
+		25 UL03—Demons Den
+		25 UL05—Imperial Sanctuary
+		25 UL04—Enchanted Grotto
+		25 TU06—
 	[CommonSlot(8)]
-		90 CW11—Inner Balance
-		90 CW16—Sword Technique
-		90 CW09—Orthodox Quickblade
-		90 CR10—Favor of the Beast Palace
-		90 CW01—Alliance Diplomat
-		90 CW06—Talisman Warder
-		90 CW13—Pilgrimage
-		90 CW08—Evasive Exile
-		90 CW07—Wandering Savior
-		90 CW02—Sect Warrior
-		90 CW03—Central Plains Huntsman
-		90 CW04—Palace Dispatch
-		90 CW15—Sky's Retribution
-		90 CW12—Interloper's Verdict
-		90 CW10—Imperial Warwaker
-		90 CW05—Spearhead Battalion
-		90 CU11—Qi Refinement
-		90 CU16—Illusion Technique
-		90 CU01—Pavilion Patrol
-		90 CU12—Pocket Dimension
-		90 CU14—Orthodoxy Banner
-		90 CU13—Spiritual Absorption
-		90 CU10—Illusionist Practicioner
-		90 CU15—Premonition
-		90 CU04—Hooktongue Toad
-		90 CU08—Crane Clan Disciple
-		90 CU06—Red Light Courtesan
-		90 CU03—Temple Procession
-		90 CU07—South Bound Swordsman
-		90 CU09—Beast of Burden
-		90 CB09—Qi Deviation
-		90 CB11—Hidden Weapons Technique
-		90 CB16—Dantian Destuction
-		90 CB04—Cult Initiate
-		90 CB13—Stockpile
-		90 CB14—Underground Expedition
-		90 CB06—Reckless Challenger
-		90 CB03—Veteran Mercenary
-		90 CB02—Sun Moon Infiltrator
-		90 CB01—Unorthodox Infiltrator
-		90 CB07—Injured Assailant
-		90 CB15—Deal Behind Closed Doors
-		90 CB08—Highwall Patrol
-		90 CR14—Clan Pillaging
-		90 CR13—Sabre Technique
-		90 CR09—Thunder Tribulation
-		90 CR11—Mercenary Banner
-		90 CR01—Southland Redwing
-		90 CR07—Red River Raider
-		90 CR07—Black Moutain Scout
-		90 CR04—Flame Wreathed Fauna
-		90 CR05—Alliance Protector
-		90 CR03—Starved Tiger
-		90 CR02—Shadowspear Vindicator
-		90 CR06—Grey Steppe Pillager
-		90 CR15—Clear a Path
-		90 CR16—Drown in Fire
-		90 CR17—Sweeping Reversal
-		90 CG16—Thousand-Year Ginseng
-		90 CG11—Fist Technique
-		90 CG02—Escort Convoy
-		90 CG07—Arboreal Fowl
-		90 CG13—Disperse Evil
-		90 CG03—Westland Escort
-		90 CG06—Shrouded Figure
-		90 CG10—Decorated Commander
-		90 CG01—Hoarding Toad
-		90 CG04—Palace Provisioner
-		90 CG08—Grizzly Woodcutter
-		90 CG12—Outnumbered, Unmatched
-		90 CG05—Fanged Greed Beast
-		90 CG14—Clan Dispute
-		90 CG15—Beast Palace Banner
-		90 CG09—Iron Bone Practicioner
-		90 CW14—Imperial Banner
-		90 CU02—Tide Lurker
-		90 CU05—Eight Trigrams Practitioner
-		90 CB12—Forlorn Vanguard
-		90 CB05—Village Prefects
-		90 CA01—Family Heirloom
-		90 CA02—Judgement Shackles
-		90 CA03—Mystic's Lantern
-		90 CA04—Gold Plated Axe
-		90 CL06—Seaside Village
-		90 CL01—Imperial Throneroom
-		90 CL02—Untamed Woodland
-		90 CL03—Orthodox Temple
-		90 CL04—Sun Moon Bastion
-		90 CL05—Mountain Encampment
-		90 CC04—Butterfly Bladesman
-		90 CC03—Hunted Fugitive
-		90 TC02—Bloodbark
-		90 CC05—Flanking Brigade
-		90 TC01—Beastly Deciever
-		90 SC02—Hatchery Experiment
-		90 CC02—Town Market
-		90 MC01—Ultimatum
-		90 CC01—Seeker of the Light
-		90 JC01—Spectral Panther
-		90 AC01—Sound the Drums
-		90 SC01—Borderland Defender
-		90 CB10—Sun Moon Banner
+		70 CW11—Inner Balance
+		70 CW16—Sword Technique
+		70 CW09—Orthodox Quickblade
+		70 CR10—Favor of the Beast Palace
+		70 CW01—Alliance Diplomat
+		70 CW06—Talisman Warder
+		70 CW13—Pilgrimage
+		70 CW08—Evasive Exile
+		70 CW07—Wandering Savior
+		70 CW02—Sect Warrior
+		70 CW03—Central Plains Huntsman
+		70 CW04—Palace Dispatch
+		70 CW15—Sky's Retribution
+		70 CW12—Interloper's Verdict
+		70 CW10—Imperial Warwaker
+		70 CW05—Spearhead Battalion
+		70 CU11—Qi Refinement
+		70 CU16—Illusion Technique
+		70 CU01—Pavilion Patrol
+		70 CU12—Pocket Dimension
+		70 CU14—Orthodoxy Banner
+		70 CU13—Spiritual Absorption
+		70 CU10—Illusionist Practicioner
+		70 CU15—Premonition
+		70 CU04—Hooktongue Toad
+		70 CU08—Crane Clan Disciple
+		70 CU06—Red Light Courtesan
+		70 CU03—Temple Procession
+		70 CU07—South Bound Swordsman
+		70 CU09—Beast of Burden
+		70 CB09—Qi Deviation
+		70 CB11—Hidden Weapons Technique
+		70 CB16—Dantian Destuction
+		70 CB04—Cult Initiate
+		70 CB13—Stockpile
+		70 CB14—Underground Expedition
+		70 CB06—Reckless Challenger
+		70 CB03—Veteran Mercenary
+		70 CB02—Sun Moon Infiltrator
+		70 CB01—Unorthodox Infiltrator
+		70 CB07—Injured Assailant
+		70 CB15—Deal Behind Closed Doors
+		70 CB08—Highwall Patrol
+		70 CR14—Clan Pillaging
+		70 CR13—Sabre Technique
+		70 CR09—Thunder Tribulation
+		70 CR11—Mercenary Banner
+		70 CR01—Southland Redwing
+		70 CR07—Red River Raider
+		70 CR07—Black Moutain Scout
+		70 CR04—Flame Wreathed Fauna
+		70 CR05—Alliance Protector
+		70 CR03—Starved Tiger
+		70 CR02—Shadowspear Vindicator
+		70 CR06—Grey Steppe Pillager
+		70 CR15—Clear a Path
+		70 CR16—Drown in Fire
+		70 CR17—Sweeping Reversal
+		70 CG16—Thousand-Year Ginseng
+		70 CG11—Fist Technique
+		70 CG02—Escort Convoy
+		70 CG07—Arboreal Fowl
+		70 CG13—Disperse Evil
+		70 CG03—Westland Escort
+		70 CG06—Shrouded Figure
+		70 CG10—Decorated Commander
+		70 CG01—Hoarding Toad
+		70 CG04—Palace Provisioner
+		70 CG08—Grizzly Woodcutter
+		70 CG12—Outnumbered, Unmatched
+		70 CG05—Fanged Greed Beast
+		70 CG14—Clan Dispute
+		70 CG15—Beast Palace Banner
+		70 CG09—Iron Bone Practicioner
+		70 CW14—Imperial Banner
+		70 CU02—Tide Lurker
+		70 CU05—Eight Trigrams Practitioner
+		70 CB12—Forlorn Vanguard
+		70 CB05—Village Prefects
+		70 CA01—Family Heirloom
+		70 CA02—Judgement Shackles
+		70 CA03—Mystic's Lantern
+		70 CA04—Gold Plated Axe
+		70 CL06—Seaside Village
+		70 CL01—Imperial Throneroom
+		70 CL02—Untamed Woodland
+		70 CL03—Orthodox Temple
+		70 CL04—Sun Moon Bastion
+		70 CL05—Mountain Encampment
+		70 CC04—Butterfly Bladesman
+		70 CC03—Hunted Fugitive
+		70 TC02—Bloodbark
+		70 CC05—Flanking Brigade
+		70 WC02—Beastly Deciever
+		70 WC03—Hatchery Experiment
+		70 CC02—Town Market
+		70 WC01—Ultimatum
+		70 WC04—Spectral Panther
+		70 WC05—Sound the Drums
+		70 CB10—Sun Moon Banner
 	[BasicSlot(1)]
 		300 Forest_TZI;
 		300 Mountain_TZI;

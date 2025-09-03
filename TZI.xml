@@ -332,9 +332,9 @@ Whenever a creature you control breaks through, return this artifact to its owne
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Draw two cards then discard a card.
-Tap target creature and put two stun counter on it.
-Exile this Saga, then return it to the battlefield transformed under your control.
+I — Draw two cards then discard a card.
+II — Tap target creature and put two stun counter on it.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Formations Expertise</text>
       <related attach="transform">Formations Expertise</related>
@@ -2547,11 +2547,11 @@ Breakthrough 3</text>
 Blitz 1WW (If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)</text>
     </card>
     <card>
-      <name>MW02—Acala the Stranger</name>
+      <name>JM04—Acala the Stranger</name>
       <set rarity="mythic">TZI</set>
       <prop>
-        <colors>W</colors>
-        <manacost>2WW</manacost>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
         <cmc>4</cmc>
         <type>Planeswalker - Acala </type>
         <maintype>Planeswalker</maintype>
@@ -2791,18 +2791,17 @@ Spells you cast from anywhere other than your hand cost {1} less for each qi cou
       <related attach="transform">RB01—Sun Division Commander</related>
     </card>
     <card>
-      <name>RB02—The Black Gate</name>
+      <name>AR06—The Black Gate</name>
       <set rarity="rare">TZI</set>
       <prop>
-        <colors>B</colors>
-        <manacost>4BB</manacost>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
         <cmc>6</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Each opponent mills a card, sacrifices a creature, then discards a card.
-Cast up to one spell from from each opponents graveyard without paying it’s mana cost.</text>
+      <text>Each opponent mills a card, sacrifices a creature, then discards a card. Then you may cast a card put into each opponents graveyard this way without paying it’s mana cost.</text>
     </card>
     <card>
       <name>RB03—Information Network</name>
@@ -2868,7 +2867,7 @@ When this creature has no counters on it, transform it.
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you attack, you may sacrifice a creature. If you do, draw a card.
-Whenever a nontoken creature you control dies, put a +1/+1 counter on this creature. If that creature entered this turn, put X +1/+1 counters on this creature, where X is that creature’s power instead.</text>
+Whenever a nontoken attacking creature you control dies, put a +1/+1 counter on this creature. If that creature entered this turn, put X +1/+1 counters on this creature, where X is that creature’s power instead.</text>
     </card>
     <card>
       <name>SM02—Tāotiè, the First Peril</name>
@@ -2886,11 +2885,11 @@ Whenever a nontoken creature you control dies, put a +1/+1 counter on this creat
 At the beginning of your combat, sacrifice a nonland permanent. Then each opponent sacrifice a permanent that shares a type with it, or loses half their life rounded down.</text>
     </card>
     <card>
-      <name>MB01—QiongQi, the Fourth Peril</name>
+      <name>AM03—QiongQi, the Fourth Peril</name>
       <set rarity="mythic">TZI</set>
       <prop>
-        <colors>B</colors>
-        <manacost>4BB</manacost>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
         <cmc>6</cmc>
         <type>Legendary Creature - Demon Beast </type>
         <maintype>Creature</maintype>
@@ -2898,11 +2897,11 @@ At the beginning of your combat, sacrifice a nonland permanent. Then each oppone
       </prop>
       <tablerow>2</tablerow>
       <text>Creature cards in your graveyard have unearth 2B. (2B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)
-Players can’t gain life.</text>
+Your opponents can’t gain life.</text>
     </card>
     <card>
-      <name>JR05—Drunken Master</name>
-      <set rarity="rare">TZI</set>
+      <name>JU07—Drunken Master</name>
+      <set rarity="uncommon">TZI</set>
       <prop>
         <colors>UR</colors>
         <manacost>2UR</manacost>
@@ -3027,15 +3026,15 @@ Other Aura enchantments you control have totem armor. (If enchanted permanent wo
       <name>TR04—The Azure Dragon of the East</name>
       <set rarity="rare">TZI</set>
       <prop>
-        <colors>RG</colors>
-        <manacost>2RG</manacost>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
         <cmc>4</cmc>
         <type>Legendary Enchantment Creature - Spirit Dragon </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bestow 3GG
+      <text>Bestow 3GU
 Flying
 Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on each enchanted creature you control.
 When this permanent enters, choose up to three target creatures. Create a Predator Role token attached to the first creature, a Prey Role token attached to the second creature, and a Scavenger Role token attached to the third creature.</text>
@@ -3044,8 +3043,8 @@ When this permanent enters, choose up to three target creatures. Create a Predat
       <name>AR05—Imperial General</name>
       <set rarity="rare">TZI</set>
       <prop>
-        <colors>BG</colors>
-        <manacost>3BG</manacost>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Soldier </type>
         <maintype>Creature</maintype>
@@ -3136,8 +3135,8 @@ Breakthrough 3</text>
       <name>MG01—HunDun, the Second Peril</name>
       <set rarity="mythic">TZI</set>
       <prop>
-        <colors>G</colors>
-        <manacost>5GG</manacost>
+        <colors>BG</colors>
+        <manacost>5BG</manacost>
         <cmc>7</cmc>
         <type>Legendary Creature - Demon Beast </type>
         <maintype>Creature</maintype>
@@ -3148,11 +3147,11 @@ Breakthrough 3</text>
 Whenever another creature dies, return it to the battlefield tapped under a random players control.</text>
     </card>
     <card>
-      <name>MU01—Secret Technique</name>
+      <name>JM03—Secret Technique</name>
       <set rarity="mythic">TZI</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
         <cmc>4</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
@@ -3209,20 +3208,20 @@ Whenever one or more qi counters are removed from one or more permanents you con
 Cycling 1B (1B, Discard this card: Draw a card.)</text>
     </card>
     <card>
-      <name>MR01—Bēishāng the Nine-Tailed Fox</name>
+      <name>TM03—Bēishāng the Nine-Tailed Fox</name>
       <set rarity="mythic">TZI</set>
       <prop>
-        <colors>R</colors>
-        <manacost>1RR</manacost>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
         <cmc>3</cmc>
         <type>Legendary Enchantment Creature - Spirit Fox </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bestow 4R (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+      <text>Bestow 3RG (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
 Enchanted creature gets +1/+0 for each Aura you control.
-Whenever a creature you control becomes enchanted, you may pay 2R. If you do, that creature deals damage equal to its power to any target. (This only triggers when a creature that isn’t enchanted becomes enchanted.)</text>
+Whenever a creature you control becomes enchanted, you may pay 1RG. If you do, that creature deals damage equal to its power to any target. (This only triggers when a creature that isn’t enchanted becomes enchanted.)</text>
     </card>
     <card>
       <name>MM02—Eye of the Void Colossus</name>
@@ -4072,8 +4071,8 @@ Blitz 2BR (If you cast this spell for its blitz cost, it gains haste and “When
       <name>CC05—Flanking Brigade</name>
       <set rarity="common">TZI</set>
       <prop>
-        <colors>WB</colors>
-        <manacost>2WB</manacost>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Soldier </type>
         <maintype>Creature</maintype>
@@ -4081,7 +4080,7 @@ Blitz 2BR (If you cast this spell for its blitz cost, it gains haste and “When
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, if it entered this turn, create a token copy of it that enters tapped and attacking. Sacrifice the copy at the beginning of the next end step.
-Blitz 3WB (If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)</text>
+Blitz 3BR (If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)</text>
     </card>
     <card>
       <name>CU02—Yin Qi Demon Beast</name>
@@ -4100,7 +4099,7 @@ Enchanted creature has “When this creature deals combat damage to an opponent,
 Whenever an enchanted creature deals combat damage to an opponent, put a +1/+1 counter on that creature.</text>
     </card>
     <card>
-      <name>TC01—Beastly Deciever</name>
+      <name>WC02—Beastly Deciever</name>
       <set rarity="common">TZI</set>
       <prop>
         <colors>URG</colors>
@@ -4166,7 +4165,7 @@ When this creature attacks, decree—
 1R/W/U, Tap an untapped creature: This creature gains indestructible until end of turn.</text>
     </card>
     <card>
-      <name>SC02—Hatchery Experiment</name>
+      <name>WC03—Hatchery Experiment</name>
       <set rarity="common">TZI</set>
       <prop>
         <colors>UBG</colors>
@@ -4209,11 +4208,11 @@ At the beginning of combat on your turn, you may pay {2}. If you do, create a Pr
 • Create a copy of a token you control.</text>
     </card>
     <card>
-      <name>MC01—Ultimatum</name>
+      <name>WC01—Ultimatum</name>
       <set rarity="common">TZI</set>
       <prop>
-        <colors>BR</colors>
-        <manacost>1BR</manacost>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
         <cmc>3</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -4222,20 +4221,6 @@ At the beginning of combat on your turn, you may pay {2}. If you do, create a Pr
       <text>Decree— (Each player secretly votes for a mode, then choose each mode with a vote.)
 • Destroy up to one creature an opponent controls.
 • Return up to one creature card from your graveyard to your hand..</text>
-    </card>
-    <card>
-      <name>CC01—Seeker of the Light</name>
-      <set rarity="common">TZI</set>
-      <prop>
-        <colors>WR</colors>
-        <manacost>RW</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Cultivator </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever this creature becomes tapped, tap another target creature.</text>
     </card>
     <card>
       <name>SU01—Forbidden Knowledge</name>
@@ -4252,7 +4237,7 @@ At the beginning of combat on your turn, you may pay {2}. If you do, create a Pr
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
     </card>
     <card>
-      <name>JC01—Spectral Panther</name>
+      <name>WC04—Spectral Panther</name>
       <set rarity="common">TZI</set>
       <prop>
         <colors>WUR</colors>
@@ -4268,7 +4253,7 @@ Whenever a creature you control breaks through, gain control of target creature 
 Breakthrough 3 (Whenever this creature becomes untapped, put a qi counter on it, then remove three qi counters from it if able. When you do, this creature breaks through causing you to surveil 1.)</text>
     </card>
     <card>
-      <name>AC01—Sound the Drums</name>
+      <name>WC05—Sound the Drums</name>
       <set rarity="common">TZI</set>
       <prop>
         <colors>WBG</colors>
@@ -4281,40 +4266,6 @@ Breakthrough 3 (Whenever this creature becomes untapped, put a qi counter on it,
       <text>Decree— (Each player secretly votes for a mode, then choose each mode with a vote.)
 • Create a 3/3 white Elephant creature token.
 • Each opponent loses 1 life for each token you control. You gain 1 life for each life lost this way.</text>
-    </card>
-    <card>
-      <name>SC01—Borderland Defender</name>
-      <set rarity="common" splitterPath="/SC01—Borderland Defender.png" >TZI</set>
-      <prop>
-        <colors>BG</colors>
-        <manacost>1BG</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever this creature attacks, return up to one target land card from your graveyard to its owner’s hand.
-Demonic arts 3 (Whenever you discard a card, put a qi counter on this creature. Then you may remove three of them. If you do, transform this creature.)
----
-(Back): The Regret of the Fallen</text>
-      <related attach="transform">The Regret of the Fallen</related>
-    </card>
-    <card>
-      <name>The Regret of the Fallen</name>
-      <set rarity="common" splitterPath="/The Regret of the Fallen.png" >TZI</set>
-      <prop>
-        <colors>BG</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Demon </type>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever a creature you control transforms into a Demon, target player sacrifices a nontoken artifact or enchantment.
----
-(Front): SC01—Borderland Defender</text>
-      <related attach="transform">SC01—Borderland Defender</related>
     </card>
     <card>
       <name>Forest_TZI</name>
@@ -4484,6 +4435,19 @@ Demonic arts 3 (Whenever you discard a card, put a qi counter on this creature. 
       <tablerow>1</tablerow>
       <text>Whenever a creature you control with Demonic arts enters, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
 Whenever you discard a card, you may sacrifice this artifact. If you do, return the card discarded this way to your hand.</text>
+    </card>
+    <card>
+      <name>TU06—</name>
+      <set rarity="uncommon">TZI</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
     </card>
 
     <!-->Tokens</-->
@@ -4663,6 +4627,28 @@ Enchanted creature must block if able and can’t attack unless it’s control p
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TIANZI DRAFT ARCHETYPES</name>
+      <set>TZI</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Imperial Dynasty — WBG:
+Orthodox Alliance — URW:
+Sun-Moon Demon Cult — BGU:
+Unorthodox Warrior Clans — RWB:
+The Beast Palace — GUR:
+
+WBG: Populate your kingdom and use tokens to overwhelm the enemy.
+URW: Tap and untap your cultivators to trigger powerful effects as they break through.
+BGU: Use blood tokens to transform your creatures into powerful demons.
+RWB: Attack with creatures the turn they come out and blitz your enemies to death.
+GUR: Enchant your creatures with bestowed powers from mythical beasts and role tokens.</text>
       <token>1</token>
     </card>
 
