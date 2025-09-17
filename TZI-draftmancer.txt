@@ -26,7 +26,7 @@
 	            "image_uris": {
 	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Perfected Strike.png"
 	            },
-	            "type": "Sorcery"
+	            "type": "Instant"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	    {
 	        "name": "CB12—Stockpile",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CB12—Stockpile.png"
@@ -1205,7 +1205,7 @@
 	    {
 	        "name": "UB08—Pure Yin Constitution",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UB08—Pure Yin Constitution.png"
@@ -1508,7 +1508,7 @@
 	    {
 	        "name": "UG08—Gaurdian Lion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG08—Gaurdian Lion.png"

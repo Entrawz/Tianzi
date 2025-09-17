@@ -34,9 +34,9 @@
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Create a 1/1 black Spy creature token.
-Populate. (Create a token that’s a copy of a creature token you control.)
-Exile this Saga, then return it to the battlefield transformed.
+I — Create a 1/1 black Spy creature token.
+II — Populate. (Create a token that’s a copy of a creature token you control.)
+III — Exile this Saga, then return it to the battlefield transformed.
 ---
 (Back): Perfected Strike</text>
       <related attach="transform">Perfected Strike</related>
@@ -48,7 +48,7 @@ Exile this Saga, then return it to the battlefield transformed.
         <colors>W</colors>
         <manacost></manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
+        <type>Instant</type>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target tapped creature.
@@ -335,9 +335,9 @@ Whenever a creature you control breaks through, return this artifact to its owne
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Draw two cards then discard a card.
-Tap target creature and put two stun counter on it.
-Exile this Saga, then return it to the battlefield transformed under your control.
+I — Draw two cards then discard a card.
+II — Tap target creature and put two stun counter on it.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Formations Expertise</text>
       <related attach="transform">Formations Expertise</related>
@@ -771,8 +771,8 @@ When The Sketched Nightmare deals combat damage to a player, you may cast up to 
       <set rarity="common">TZI</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -1995,14 +1995,14 @@ Whenever a creature you control becomes enchanted, draw a card. (This only trigg
       <set rarity="uncommon">TZI</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature has deathtouch and gains “Whenever this creature deals combat damage to a player, draw a card.”
+Enchanted creature has menace and gains “Whenever this creature deals combat damage to a player, draw a card.”
 When this Aura is put into a graveyard from the battlefield, you may pay 2 life. If you do, return this card to its owner’s hand.</text>
     </card>
     <card>
@@ -2501,14 +2501,14 @@ Demonic arts 4 (Whenever you discard a card, put a qi counter on this creature. 
       <set rarity="uncommon">TZI</set>
       <prop>
         <colors>G</colors>
-        <manacost>2GG</manacost>
+        <manacost>3G</manacost>
         <cmc>4</cmc>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Devour token 3 (As this enters the battlefield, you may sacrifice any number of tokens. This creature enters the battlefield with three times that many +1/+1 counters on it.)
+      <text>Devour token 2 (As this enters the battlefield, you may sacrifice any number of tokens. This creature enters the battlefield with twice that many +1/+1 counters on it.)
 Trample</text>
     </card>
     <card>
@@ -3012,7 +3012,7 @@ Blitz 1BR (If you cast this spell for its blitz cost, it gains haste and “When
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you create a token, create that many tokens, plus an additional Food token.
+      <text>If you would create one or more tokens, instead create that many tokens, plus an additional Food token.
 3G, {T}: Populate. (Create a token that’s a copy of a creature token you control.)</text>
     </card>
     <card>
