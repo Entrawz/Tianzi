@@ -149,7 +149,7 @@
 	    {
 	        "name": "CC10—Imperial Warwaker",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}{W}",
+	        "mana_cost": "{4}{R}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CC10—Imperial Warwaker.png"
@@ -278,7 +278,7 @@
 	    {
 	        "name": "CU14—Premonition",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CU14—Premonition.png"
@@ -400,12 +400,12 @@
 	            "en": "CB14—Hidden Weapons Technique"
 	        },
 	        "back": {
-	            "name": "Invisible Blades",
+	            "name": "Invisible Blade",
 	            "printed_names": {
-	                "en": "Invisible Blades"
+	                "en": "Invisible Blade"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Invisible Blades.png"
+	                "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/Invisible Blade.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -442,7 +442,7 @@
 	    },
 	    {
 	        "name": "SR04—The Painted Lady",
-	        "mana_cost": "{2}{B}{G}",
+	        "mana_cost": "{3}{B}{G}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/SR04—The Painted Lady.png"
@@ -879,7 +879,7 @@
 	        "name": "CC07—Palace Provisioner",
 	        "rarity": "common",
 	        "mana_cost": "{B}{G}",
-	        "type": "Creature — Human ",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CC07—Palace Provisioner.png"
 	        }
@@ -953,7 +953,7 @@
 	    {
 	        "name": "UG07—Murk Stomper",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Toad Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UG07—Murk Stomper.png"
@@ -1145,7 +1145,7 @@
 	    {
 	        "name": "JU06—Alliance Skyship",
 	        "rarity": "uncommon",
-	        "mana_cost": "{W}{U}",
+	        "mana_cost": "{1}{W}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JU06—Alliance Skyship.png"
@@ -1174,7 +1174,7 @@
 	    },
 	    {
 	        "name": "CC09—Sun Moon Harvester",
-	        "mana_cost": "{1}{G}{U}",
+	        "mana_cost": "{2}{G}{U}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CC09—Sun Moon Harvester.png"
@@ -1517,7 +1517,7 @@
 	    {
 	        "name": "AU05—Trader's Cart",
 	        "rarity": "uncommon",
-	        "mana_cost": "{G}{W}",
+	        "mana_cost": "{1}{G}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/AU05—Trader's Cart.png"
@@ -1653,12 +1653,12 @@
 	        }
 	    },
 	    {
-	        "name": "UU10—Blocked Acupoints",
+	        "name": "UU10—Soul Dispersal",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU10—Blocked Acupoints.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UU10—Soul Dispersal.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	    {
 	        "name": "IU03—Drunken Master",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{R}",
+	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/IU03—Drunken Master.png"
@@ -2595,7 +2595,7 @@
 	        "name": "UL01—Skybound Pagoda",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Sanctuary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL01—Skybound Pagoda.png"
 	        }
@@ -2631,7 +2631,7 @@
 	        "name": "UL02—Chained Fortress",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Sanctuary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL02—Chained Fortress.png"
 	        }
@@ -2640,25 +2640,25 @@
 	        "name": "UL03—Demons Den",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Sanctuary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL03—Demons Den.png"
 	        }
 	    },
 	    {
-	        "name": "UL05—Imperial Sanctuary",
+	        "name": "UL05—Dynasty Refuge",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL05—Imperial Sanctuary.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL05—Dynasty Refuge.png"
 	        }
 	    },
 	    {
 	        "name": "UL04—Enchanted Grotto",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Sanctuary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UL04—Enchanted Grotto.png"
 	        }
@@ -2835,12 +2835,12 @@
 	        }
 	    },
 	    {
-	        "name": "RB02—Deathly Silence",
+	        "name": "RB02—Crest of Rebirth",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{4}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB02—Deathly Silence.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB02—Crest of Rebirth.png"
 	        }
 	    },
 	    {
@@ -2856,7 +2856,7 @@
 	        "name": "RG04—Settling Grounds",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{G}",
-	        "type": "Enchantment",
+	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RG04—Settling Grounds.png"
 	        }
@@ -2909,7 +2909,7 @@
 		8 MR04—Banishment Talisman
 		8 RU04—Qi Infused Relic
 		8 RR04—Siege Ship
-		8 RB02—Deathly Silence
+		8 RB02—Crest of Rebirth
 		8 RW02—The White Tower
 		8 RG04—Settling Grounds
 		4 JM04—Acala the Stranger
@@ -2992,7 +2992,7 @@
 		25 AU05—Trader's Cart
 		25 UW02—Warfront Tactician
 		25 UR08—Fishj Attack
-		25 UU10—Blocked Acupoints
+		25 UU10—Soul Dispersal
 		25 IU03—Drunken Master
 		25 MU07—Flametooth Maurader
 		25 AU01—Court Official
@@ -3023,7 +3023,7 @@
 		25 UL06—Shifting Vista
 		25 UL02—Chained Fortress
 		25 UL03—Demons Den
-		25 UL05—Imperial Sanctuary
+		25 UL05—Dynasty Refuge
 		25 UL04—Enchanted Grotto
 		25 IU01—Mesa Looter
 	[CommonSlot(8)]
