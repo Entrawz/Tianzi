@@ -924,12 +924,12 @@
 	        }
 	    },
 	    {
-	        "name": "CG13—Clan Dispute",
+	        "name": "CG13—Territorial Dispute",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG13—Clan Dispute.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/CG13—Territorial Dispute.png"
 	        }
 	    },
 	    {
@@ -1068,12 +1068,12 @@
 	        }
 	    },
 	    {
-	        "name": "JR04—Twin Form Practicioner",
+	        "name": "IR02—Twin Form Practicioner",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{U}{R}",
 	        "type": "Creature — Spirit Cultivator ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/JR04—Twin Form Practicioner.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/IR02—Twin Form Practicioner.png"
 	        }
 	    },
 	    {
@@ -1281,7 +1281,7 @@
 	        "name": "GGU03—Madam Shí",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}{G}",
-	        "type": "Creature — Human Noble ",
+	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/GGU03—Madam Shí.png"
 	        }
@@ -1589,7 +1589,7 @@
 	    {
 	        "name": "RU01—Alliance Grandmaster",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{U}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Human Cultivator ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RU01—Alliance Grandmaster.png"
@@ -1617,12 +1617,12 @@
 	        }
 	    },
 	    {
-	        "name": "UR08—Fishj Attack",
+	        "name": "UR08—Fish Attack",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR08—Fishj Attack.png"
+	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/UR08—Fish Attack.png"
 	        }
 	    },
 	    {
@@ -1694,7 +1694,7 @@
 	    {
 	        "name": "RB03—Information Network",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RB03—Information Network.png"
@@ -2855,7 +2855,7 @@
 	    {
 	        "name": "RG04—Settling Grounds",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Entrawz/Tianzi/refs/heads/main/TZI-files/RG04—Settling Grounds.png"
@@ -2866,7 +2866,7 @@
 		8 SMR01—Talisman Whale
 		8 SR04—The Painted Lady
 		8 AR04—Fángyù, Protector of the Wall
-		8 JR04—Twin Form Practicioner
+		8 IR02—Twin Form Practicioner
 		8 RR06—Jīngxi the Chained Pheonix
 		8 JR06—Son of the Dragon
 		8 AR02—Wéi Guāng, Warrior Prince
@@ -2991,7 +2991,7 @@
 		25 UG08—Gaurdian Lion
 		25 AU05—Trader's Cart
 		25 UW02—Warfront Tactician
-		25 UR08—Fishj Attack
+		25 UR08—Fish Attack
 		25 UU10—Soul Dispersal
 		25 IU03—Drunken Master
 		25 MU07—Flametooth Maurader
@@ -3097,7 +3097,7 @@
 		70 CG08—Grizzly Woodcutter
 		70 CG11—Outnumbered, Unmatched
 		70 CG05—Fanged Greed Beast
-		70 CG13—Clan Dispute
+		70 CG13—Territorial Dispute
 		70 CG15—Beast Palace Banner
 		70 CG09—Iron Bone Practicioner
 		70 CW13—Imperial Banner
